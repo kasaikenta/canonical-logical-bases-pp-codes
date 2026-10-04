@@ -1,0 +1,46 @@
+{
+  "n": 640,
+  "k": 160,
+  "max_basis_weights": [
+    26,
+    26
+  ],
+  "max_check_weight": 10,
+  "integer_overlap_identity": true,
+  "symbol_girth": [
+    6,
+    6
+  ],
+  "binary_girth": [
+    4,
+    4
+  ],
+  "CSS_verified": true,
+  "kernels_verified": true,
+  "canonical_verified": true,
+  "complete_basis_verified": true,
+  "check_ranks": [
+    240,
+    240
+  ],
+  "basis_ranks": [
+    160,
+    160
+  ],
+  "distance_status": "exact",
+  "distance": 13,
+  "histogram_X": {
+    "26": 80,
+    "24": 40,
+    "25": 40
+  },
+  "histogram_Z": {
+    "24": 40,
+    "25": 40,
+    "26": 80
+  },
+  "distance_certificate_complete_roots": 48,
+  "no_nontrivial_logical_through": 12,
+  "independent_weight13_witness_verified": true,
+  "independent_certificate_audit": true
+}
