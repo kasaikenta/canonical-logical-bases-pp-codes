@@ -3,11 +3,11 @@
 This repository is the reproducibility companion to **Low-Weight Canonical
 Logical Bases from Pair-Partition Codes** by Koki Okada and Kenta Kasai.  It
 contains the final binary check matrices and complete canonical logical bases
-for every code reported in the paper's main results table.
+for the codes reported in the paper and additional fully documented examples.
 
 ## Contents
 
-- `catalog/codes.csv` and `catalog/codes.json`: one row per reported code.
+- `catalog/codes.csv` and `catalog/codes.json`: one row per archived code.
 - `codes/<code-id>/matrices.npz`: `HX`, `HZ`, `LX`, and `LZ` as binary NumPy
   arrays.  These matrices are the authoritative, lossless code descriptions.
 - `codes/<code-id>/metadata.json`: parameters, weights, girths, Gram data,
@@ -18,6 +18,11 @@ for every code reported in the paper's main results table.
   witnesses when available.
 - `scripts/verify_all.py`: independently checks dimensions, ranks, CSS
   commutation, logical kernel conditions, and canonical pairing over GF(2).
+
+The binary multi-CPM example moved out of the paper appendix is documented in
+[`codes/f2-multicpm-j3-l8-p128-d22-w9/README.md`](codes/f2-multicpm-j3-l8-p128-d22-w9/README.md).
+That page gives the formal family, PP parent, pair partitions, pivot minors,
+canonical normalization, fixed specialization, and exact-distance records.
 
 The compressed matrices are sufficient to reconstruct every displayed CSS
 code and its canonical basis without relying on private documents.  Structured
