@@ -23,6 +23,13 @@ The binary multi-CPM example moved out of the paper appendix is documented in
 [`codes/f2-multicpm-j3-l8-p128-d22-w9/README.md`](codes/f2-multicpm-j3-l8-p128-d22-w9/README.md).
 That page gives the formal family, PP parent, pair partitions, pivot minors,
 canonical normalization, fixed specialization, and exact-distance records.
+An alternate complete basis for the quaternary `[[640,160,11]]` code is in
+[`codes/q4-j3-l8-p40-d11-w9/basis_variants/systematic-overlap10/README.md`](codes/q4-j3-l8-p40-d11-w9/basis_variants/systematic-overlap10/README.md).
+It has maximum representative weights 27/27 and integer support overlap I_160,
+with the same checks and exact distance as the original weight-25/25 basis.
+Its standalone verifier checks the unchanged checks, completeness, and integer
+support-overlap identity.
+
 The catalog also contains the verified `P=52` instance and the dependent
 four-block-row presentations listed in the paper's appendix table.
 
