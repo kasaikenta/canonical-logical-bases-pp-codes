@@ -1,0 +1,11 @@
+{
+  "family": "binary-multi-CPM-PP",
+  "J": 4,
+  "L": 8,
+  "P": 128,
+  "dependent_extension": "append (1+z^6) times block row 0 on each side",
+  "rank_deficient": true,
+  "check_rank_each": 384,
+  "same_stabilizer_as": "f2-multicpm-j3-l8-p128-d22-w9",
+  "new_code_equivalence_class": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "f2-multicpm-j3-l8-p52-d16-w9",
+  "family": "binary-multi-CPM-PP",
+  "J": 3,
+  "L": 8,
+  "P": 52,
+  "n": 416,
+  "k": 104,
+  "d": 16,
+  "girth_symbol": 6,
+  "girth_binary": 6,
+  "column_weight": "3,4",
+  "max_check_row_weight": 9,
+  "check_rank_each": 156,
+  "gram": "z^44",
+  "max_basis_weight_x": 35,
+  "max_basis_weight_z": 35,
+  "distance_status": "exact",
+  "construction_status": "structured recipe and final matrices",
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "a40cb433d2cfa06d3e46df4e3ad23fd08728a3ca820a0dc015524a5dffb3798e",
+    "HZ": "a18da5effc9c424affb3683386d79e41e168033a622915b8e369ad39c3b05b22",
+    "LX": "7823e33d050eacec3438fc844cd492ce80117ca6058f2c4bdc2d860682a7c7c8",
+    "LZ": "9f3c07027a601e0ca9febc0323d6e0b506a8ab9b24b53512ff2579efc8fbc617"
+  },
+  "matrix_shapes": {
+    "HX": [
+      156,
+      416
+    ],
+    "HZ": [
+      156,
+      416
+    ],
+    "LX": [
+      104,
+      416
+    ],
+    "LZ": [
+      104,
+      416
+    ]
+  },
+  "check_row_weights_HX": {
+    "9": 156
+  },
+  "check_row_weights_HZ": {
+    "9": 156
+  },
+  "check_column_weights_HX": {
+    "3": 260,
+    "4": 156
+  },
+  "check_column_weights_HZ": {
+    "3": 260,
+    "4": 156
+  },
+  "basis_weights_LX": {
+    "26": 52,
+    "35": 52
+  },
+  "basis_weights_LZ": {
+    "26": 52,
+    "35": 52
+  }
+}

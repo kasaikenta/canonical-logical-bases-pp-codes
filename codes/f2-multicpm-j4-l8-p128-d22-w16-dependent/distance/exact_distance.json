@@ -1,0 +1,92 @@
+{
+  "n": 1024,
+  "k": 256,
+  "P": 128,
+  "d": 22,
+  "d_X": 22,
+  "d_Z": 22,
+  "lower_bound": 22,
+  "excluded_weights": "1 through 21 inclusive",
+  "upper_bound": 22,
+  "upper_witness": "upper_witness22.json",
+  "total_visited_search_nodes": 3971294709,
+  "lower_bound_jobs": [
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 0,
+      "record": "compact21_w21_r0_1_b0.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 1,
+      "record": "compact21_w21_r0_1_b1.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 2,
+      "record": "compact21_w21_r0_1_b2.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 3,
+      "record": "compact21_w21_r0_1_b3.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 4,
+      "record": "compact21_w21_r0_1_b4.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 5,
+      "record": "compact21_w21_r0_1_b5.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 6,
+      "record": "compact21_w21_r0_1_b6.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 0,
+      "lastblock_exclusive": 1,
+      "branch": 7,
+      "record": "compact21_w21_r0_1_b7.json",
+      "engine": "memory-compact exact enumerator"
+    },
+    {
+      "cutoff": 21,
+      "firstblock": 1,
+      "lastblock_exclusive": 8,
+      "branch": -1,
+      "record": "split21_w21_r1_8_b-1.json",
+      "engine": "reference exact enumerator (identical branching and packing bounds)"
+    }
+  ],
+  "matrix_source": "pp_parent_selection_and_bound38.zip/code_1024_256.npz",
+  "input_was_not_modified": true,
+  "input_SHA256": "207e43cec7a3766f3b28463818097975dbe6b7cd3970f10cccda803829e5de72",
+  "matrix_archive_SHA256": "b575d38ca66a46d681781854b1987b963d86fc9d377241e829ef0653e20d1378",
+  "scope": "This fixed P=128, s=1 binary CSS code only; not a circuit-distance or whole-family claim."
+}

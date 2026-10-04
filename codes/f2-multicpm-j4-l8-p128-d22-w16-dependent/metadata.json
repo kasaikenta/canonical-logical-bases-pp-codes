@@ -1,0 +1,69 @@
+{
+  "id": "f2-multicpm-j4-l8-p128-d22-w16-dependent",
+  "family": "binary-multi-CPM-PP",
+  "J": 4,
+  "L": 8,
+  "P": 128,
+  "n": 1024,
+  "k": 256,
+  "d": 22,
+  "girth_symbol": 4,
+  "girth_binary": 4,
+  "column_weight": "5,6",
+  "max_check_row_weight": 16,
+  "check_rank_each": 384,
+  "gram": "inherited from J=3",
+  "max_basis_weight_x": 33,
+  "max_basis_weight_z": 33,
+  "distance_status": "exact; inherited from identical stabilizer row spaces",
+  "construction_status": "dependent fourth block row and final matrices",
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "3a2f91f163f34a0ec49da2f32e526ee14b7a469ea4b75860439a1cdc4b975f0f",
+    "HZ": "2153cecdbb8032b5777e6cbc47eb116a2f579ae1b0a0f290caa1869335452dde",
+    "LX": "31c95fd61046b7f2ed9a0141b9d1496bf0e9f8acc638a9494d63feb371a30aaf",
+    "LZ": "f61f03b1ffb13f674237ce5e8313b56559ed1423154be0618bd8be1d4285d885"
+  },
+  "matrix_shapes": {
+    "HX": [
+      512,
+      1024
+    ],
+    "HZ": [
+      512,
+      1024
+    ],
+    "LX": [
+      256,
+      1024
+    ],
+    "LZ": [
+      256,
+      1024
+    ]
+  },
+  "check_row_weights_HX": {
+    "9": 384,
+    "16": 128
+  },
+  "check_row_weights_HZ": {
+    "9": 384,
+    "16": 128
+  },
+  "check_column_weights_HX": {
+    "5": 640,
+    "6": 384
+  },
+  "check_column_weights_HZ": {
+    "5": 640,
+    "6": 384
+  },
+  "basis_weights_LX": {
+    "30": 128,
+    "33": 128
+  },
+  "basis_weights_LZ": {
+    "30": 128,
+    "33": 128
+  }
+}

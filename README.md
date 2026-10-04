@@ -23,6 +23,8 @@ The binary multi-CPM example moved out of the paper appendix is documented in
 [`codes/f2-multicpm-j3-l8-p128-d22-w9/README.md`](codes/f2-multicpm-j3-l8-p128-d22-w9/README.md).
 That page gives the formal family, PP parent, pair partitions, pivot minors,
 canonical normalization, fixed specialization, and exact-distance records.
+The catalog also contains the verified `P=52` instance and the dependent
+four-block-row presentations listed in the paper's appendix table.
 
 The compressed matrices are sufficient to reconstruct every displayed CSS
 code and its canonical basis without relying on private documents.  Structured
