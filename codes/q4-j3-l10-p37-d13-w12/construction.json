@@ -1,0 +1,26 @@
+{
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 10,
+  "P": 37,
+  "A": [
+    4,
+    6,
+    9
+  ],
+  "B": [
+    1,
+    2,
+    3
+  ],
+  "I": [
+    0,
+    5,
+    7,
+    8
+  ],
+  "g": {
+    "24": 1
+  },
+  "recipe_status": "The final binary matrices are authoritative; the original search JSON was not retained in this local snapshot."
+}

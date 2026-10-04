@@ -1,0 +1,73 @@
+{
+  "id": "q4-j3-l8-p24-d13-w9",
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 8,
+  "P": 24,
+  "n": 384,
+  "k": 96,
+  "d": 13,
+  "girth_symbol": 6,
+  "girth_binary": 6,
+  "column_weight": "3,4",
+  "max_check_row_weight": 9,
+  "check_rank_each": 144,
+  "gram": "omega*z^21",
+  "max_basis_weight_x": 27,
+  "max_basis_weight_z": 27,
+  "distance_status": "exact",
+  "construction_status": "structured recipe and final matrices",
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "2fd298f330581e26cb999565a1b2f6ad3a6d0c236ae0d4191c7d7e73fb3c8b6d",
+    "HZ": "2a2d7908e5380a9dd53864d65aa078b444e0ff4a5ea262b21f920585ce2b89dc",
+    "LX": "cad07c645cb5cf39def411c2c0cdf91e5fa8abfd9e2d59d65c2570238341a944",
+    "LZ": "31ac41863f5f36802dbd81642f12f87230e598532ba0906fd32b8e42a94c09a4"
+  },
+  "matrix_shapes": {
+    "HX": [
+      144,
+      384
+    ],
+    "HZ": [
+      144,
+      384
+    ],
+    "LX": [
+      96,
+      384
+    ],
+    "LZ": [
+      96,
+      384
+    ]
+  },
+  "check_row_weights_HX": {
+    "8": 72,
+    "9": 72
+  },
+  "check_row_weights_HZ": {
+    "8": 72,
+    "9": 72
+  },
+  "check_column_weights_HX": {
+    "3": 312,
+    "4": 72
+  },
+  "check_column_weights_HZ": {
+    "3": 312,
+    "4": 72
+  },
+  "basis_weights_LX": {
+    "19": 24,
+    "22": 24,
+    "23": 24,
+    "27": 24
+  },
+  "basis_weights_LZ": {
+    "19": 24,
+    "22": 24,
+    "23": 24,
+    "27": 24
+  }
+}

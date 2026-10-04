@@ -1,0 +1,21 @@
+id,family,J,L,P,n,k,d,girth_symbol,girth_binary,column_weight,max_check_row_weight,check_rank_each,gram,max_basis_weight_x,max_basis_weight_z,distance_status,construction_status
+q4-j3-l8-p20-d13-w10,quaternary-single-CPM-PP,3,8,20,320,80,13,6,4,"3,4",10,120,z^6,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p20-d14-w10,quaternary-single-CPM-PP,3,8,20,320,80,14,6,4,"3,4",10,120,z^8,25,25,exact,structured recipe and final matrices
+q4-j3-l8-p22-d15-w10,quaternary-single-CPM-PP,3,8,22,352,88,15,6,4,"3,4",10,132,z^17,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p22-d16-w10,quaternary-single-CPM-PP,3,8,22,352,88,16,6,4,"3,4",10,132,z^16,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p26-d17-w10,quaternary-single-CPM-PP,3,8,26,416,104,17,6,4,"3,4",10,156,z^19,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p28-d18-w10,quaternary-single-CPM-PP,3,8,28,448,112,18,6,4,"3,4",10,168,z^18,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p128-d24-w10,quaternary-single-CPM-PP,3,8,128,2048,512,24,6,4,"3,4",10,768,z^122,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p20-d10-w9,quaternary-single-CPM-PP,3,8,20,320,80,10,6,6,"3,4",9,120,omega*z^4,26,26,exact,structured recipe and final matrices
+q4-j3-l8-p40-d11-w9,quaternary-single-CPM-PP,3,8,40,640,160,11,6,6,"3,4",9,240,omega*z^35,25,25,exact,structured recipe and final matrices
+q4-j3-l8-p24-d12-w9,quaternary-single-CPM-PP,3,8,24,384,96,12,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p24-d13-w9,quaternary-single-CPM-PP,3,8,24,384,96,13,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p32-d14-w9,quaternary-single-CPM-PP,3,8,32,512,128,14,6,6,"3,4",9,192,omega*z^28,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p104-d15-w9,quaternary-single-CPM-PP,3,8,104,1664,416,15,6,6,"3,4",9,624,omega*z^8,27,27,exact,structured recipe and final matrices
+q4-j3-l8-p32-d16-w9,quaternary-single-CPM-PP,3,8,32,512,128,16,6,6,"3,4",9,192,omega*z^10,27,27,exact,structured recipe and final matrices
+q4-j3-l10-p41-d13-w11,quaternary-single-CPM-PP,3,10,41,820,328,13,6,4,3-4,11,246,z^15,25,25,exact,pivot data and final matrices
+q4-j3-l10-p37-d13-w12,quaternary-single-CPM-PP,3,10,37,740,296,13,6,4,3-5,12,222,z^24,28,28,exact,pivot data and final matrices
+q4-j3-l10-p31-d14-w12,quaternary-single-CPM-PP,3,10,31,620,248,14,6,4,3-6,12,186,z^21,25,26,exact,pivot data and final matrices
+q4-j3-l10-p37-d15-w12,quaternary-single-CPM-PP,3,10,37,740,296,15,6,4,3-5,12,222,z^14,28,28,exact,pivot data and final matrices
+q4-j3-l10-p53-d16-w12,quaternary-single-CPM-PP,3,10,53,1060,424,16,6,4,3-5,12,318,z^32,26,26,exact,pivot data and final matrices
+f2-multicpm-j3-l8-p128-d22-w9,binary-multi-CPM-PP,3,8,128,1024,256,22,6,6,"3,4",9,384,z^8,33,33,exact,structured recipe and final matrices

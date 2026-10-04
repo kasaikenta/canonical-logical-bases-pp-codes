@@ -1,0 +1,69 @@
+{
+  "id": "q4-j3-l10-p53-d16-w12",
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 10,
+  "P": 53,
+  "n": 1060,
+  "k": 424,
+  "d": 16,
+  "girth_symbol": 6,
+  "girth_binary": 4,
+  "column_weight": "3-5",
+  "max_check_row_weight": 12,
+  "check_rank_each": 318,
+  "gram": "z^32",
+  "max_basis_weight_x": 26,
+  "max_basis_weight_z": 26,
+  "distance_status": "exact",
+  "construction_status": "pivot data and final matrices",
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "b710bd85d247cd5129cd8e5a41b35266c5212bd2085c98f24624edc4fcd86108",
+    "HZ": "ff5084046345179b5100f5b688e326de764e6f9aa30c7dfe20cdfce37f237e20",
+    "LX": "b6d40217d2d95a3add070c99473454a7a176864aa4dd809977011372bd64a1b1",
+    "LZ": "6cfb660df3db681b6ffbe98fa5cc7fdfb64df8b6b16e488b3d863032a95edf6a"
+  },
+  "matrix_shapes": {
+    "HX": [
+      318,
+      1060
+    ],
+    "HZ": [
+      318,
+      1060
+    ],
+    "LX": [
+      424,
+      1060
+    ],
+    "LZ": [
+      424,
+      1060
+    ]
+  },
+  "check_row_weights_HX": {
+    "12": 318
+  },
+  "check_row_weights_HZ": {
+    "12": 318
+  },
+  "check_column_weights_HX": {
+    "3": 636,
+    "4": 212,
+    "5": 212
+  },
+  "check_column_weights_HZ": {
+    "3": 636,
+    "4": 212,
+    "5": 212
+  },
+  "basis_weights_LX": {
+    "23": 212,
+    "26": 212
+  },
+  "basis_weights_LZ": {
+    "23": 212,
+    "26": 212
+  }
+}

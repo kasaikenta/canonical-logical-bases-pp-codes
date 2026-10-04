@@ -1,0 +1,66 @@
+# Canonical logical bases from pair-partition codes
+
+This repository is the reproducibility companion to **Low-Weight Canonical
+Logical Bases from Pair-Partition Codes** by Koki Okada and Kenta Kasai.  It
+contains the final binary check matrices and complete canonical logical bases
+for every code reported in the paper's main results table.
+
+## Contents
+
+- `catalog/codes.csv` and `catalog/codes.json`: one row per reported code.
+- `codes/<code-id>/matrices.npz`: `HX`, `HZ`, `LX`, and `LZ` as binary NumPy
+  arrays.  These matrices are the authoritative, lossless code descriptions.
+- `codes/<code-id>/metadata.json`: parameters, weights, girths, Gram data,
+  source recipe status, exact-distance status, and matrix hashes.
+- `codes/<code-id>/construction.json`: polynomial/QC construction data when
+  archived in structured form.
+- `codes/<code-id>/distance/`: compact exact-distance certificate records and
+  witnesses when available.
+- `scripts/verify_all.py`: independently checks dimensions, ranks, CSS
+  commutation, logical kernel conditions, and canonical pairing over GF(2).
+
+The compressed matrices are sufficient to reconstruct every displayed CSS
+code and its canonical basis without relying on private documents.  Structured
+construction files additionally reproduce the polynomial/QC route used to
+obtain the matrices.
+
+## Quick verification
+
+Python 3.10 or later and NumPy are sufficient.
+
+```bash
+python3 scripts/verify_all.py
+```
+
+The verifier checks, for every entry,
+
+```text
+HX HZ^T = 0,
+HZ LX^T = 0,
+HX LZ^T = 0,
+LX LZ^T = I,
+rank(HX) = rank(HZ) = (n-k)/2,
+rank(LX) = rank(LZ) = k.
+```
+
+It also checks the matrix SHA-256 digests and the row/column-weight summaries
+recorded in `metadata.json`.
+
+## File convention
+
+All products in the verifier are over GF(2).  Rows of `LX` and `LZ` are paired
+in the same order.  Thus row `i` of `LX` anticommutes with row `i` of `LZ` and
+commutes with every other row of the opposite basis.
+
+See [docs/format.md](docs/format.md) for the complete schema and
+[docs/distance-certification.md](docs/distance-certification.md) for the scope
+of the archived exact-distance records.
+
+## Citation
+
+Please cite the paper and the archived release identified in `CITATION.cff`.
+
+## License
+
+Code is released under the MIT License.  Numerical data are released under
+CC0-1.0; see `DATA-LICENSE`.

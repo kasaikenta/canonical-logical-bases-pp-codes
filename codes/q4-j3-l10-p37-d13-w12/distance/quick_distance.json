@@ -1,0 +1,135 @@
+{
+  "sides": {
+    "X": {
+      "exact_distance": null,
+      "history": [
+        {
+          "limit": 1,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 2,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 3,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 4,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 5,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 6,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 7,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 8,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 9,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 10,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 11,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 12,
+          "found_roots": 0,
+          "complete_roots": 26
+        }
+      ]
+    },
+    "Z": {
+      "exact_distance": null,
+      "history": [
+        {
+          "limit": 1,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 2,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 3,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 4,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 5,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 6,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 7,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 8,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 9,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 10,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 11,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 12,
+          "found_roots": 0,
+          "complete_roots": 26
+        }
+      ]
+    }
+  },
+  "exact_CSS_distance": null
+}

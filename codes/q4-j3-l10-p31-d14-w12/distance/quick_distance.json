@@ -1,0 +1,45 @@
+{
+  "sides": {
+    "X": {
+      "exact_distance": null,
+      "history": [
+        {
+          "limit": 11,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 12,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 13,
+          "found_roots": 0,
+          "complete_roots": 28
+        }
+      ]
+    },
+    "Z": {
+      "exact_distance": null,
+      "history": [
+        {
+          "limit": 11,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 12,
+          "found_roots": 0,
+          "complete_roots": 30
+        },
+        {
+          "limit": 13,
+          "found_roots": 0,
+          "complete_roots": 28
+        }
+      ]
+    }
+  },
+  "exact_CSS_distance": null
+}

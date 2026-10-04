@@ -1,0 +1,26 @@
+{
+  "HX": {
+    "check_rows": [
+      0,
+      6,
+      200
+    ],
+    "variables_between_consecutive_checks": [
+      6,
+      902,
+      640
+    ]
+  },
+  "HZ": {
+    "check_rows": [
+      0,
+      6,
+      251
+    ],
+    "variables_between_consecutive_checks": [
+      384,
+      307,
+      891
+    ]
+  }
+}
