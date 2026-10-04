@@ -23,3 +23,5 @@ f2-multicpm-j4-l8-p52-d16-w16-dependent,binary-multi-CPM-PP,4,8,52,416,104,16,4,
 f2-multicpm-j3-l8-p128-d22-w9,binary-multi-CPM-PP,3,8,128,1024,256,22,6,6,"3,4",9,384,z^8,33,33,exact,structured recipe and final matrices
 f2-multicpm-j4-l8-p128-d22-w16-dependent,binary-multi-CPM-PP,4,8,128,1024,256,22,4,4,"5,6",16,384,inherited from J=3,33,33,exact; inherited from identical stabilizer row spaces,dependent fourth block row and final matrices
 q4-j3-l8-p40-d13-w10,quaternary-single-CPM-PP,3,8,40,640,160,13,6,4,"3,4,6",10,240,omega*z^35,26,26,exact,structured recipe and final matrices
+q4-j3-l8-p32-d13-w10,quaternary-single-CPM-PP,3,8,32,512,128,13,6,4,"3,4,6",10,192,omega*z^28,26,26,exact,structured recipe and final matrices
+q4-j3-l8-p24-d13-w10,quaternary-single-CPM-PP,3,8,24,384,96,13,6,4,"3,4,6",10,144,omega*z^3,26,26,exact,structured recipe and final matrices

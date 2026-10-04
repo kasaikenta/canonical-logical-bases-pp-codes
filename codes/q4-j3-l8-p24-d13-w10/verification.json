@@ -1,0 +1,42 @@
+{
+  "n": 384,
+  "k": 96,
+  "max_basis_weights": [
+    26,
+    26
+  ],
+  "max_check_weight": 10,
+  "integer_overlap_identity": true,
+  "symbol_girth": [
+    6,
+    6
+  ],
+  "binary_girth": [
+    4,
+    4
+  ],
+  "CSS_verified": true,
+  "kernels_verified": true,
+  "canonical_verified": true,
+  "complete_basis_verified": true,
+  "check_ranks": [
+    144,
+    144
+  ],
+  "basis_ranks": [
+    96,
+    96
+  ],
+  "distance_status": "exact",
+  "distance": 13,
+  "histogram_X": {
+    "26": 48,
+    "24": 24,
+    "25": 24
+  },
+  "histogram_Z": {
+    "24": 24,
+    "25": 24,
+    "26": 48
+  }
+}

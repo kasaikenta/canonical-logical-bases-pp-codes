@@ -23,4 +23,4 @@ exclusion through weight 12 on both sides and a verified weight-13 witness.
 See distance/ for compact records. Run the repository-wide scripts/verify_all.py
 for matrix hashes, ranks, kernel conditions, and canonical pairing.
 
-This is an additional search result; it has not yet been added to the paper table.
+This code is included in the Japanese and English paper tables, with maximum basis weights 26/26 and integer support overlap 1/0.

@@ -30,6 +30,15 @@ with the same checks and exact distance as the original weight-25/25 basis.
 Its standalone verifier checks the unchanged checks, completeness, and integer
 support-overlap identity.
 
+Three additional connected quaternary CPM--PP codes have exact distance 13,
+maximum binary check weight 10, and complete canonical bases of maximum
+weights 26/26 with integer support overlap equal to an identity matrix:
+[`[[384,96,13]]`](codes/q4-j3-l8-p24-d13-w10/README.md),
+[`[[512,128,13]]`](codes/q4-j3-l8-p32-d13-w10/README.md), and
+[`[[640,160,13]]`](codes/q4-j3-l8-p40-d13-w10/README.md).
+Their symbol girths are 6/6 and binary girths 4/4. Each directory contains
+all polynomial data, final matrices, and compact exact-distance records.
+
 The catalog also contains the verified `P=52` instance and the dependent
 four-block-row presentations listed in the paper's appendix table.
 
