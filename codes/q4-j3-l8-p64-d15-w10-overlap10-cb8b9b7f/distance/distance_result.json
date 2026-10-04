@@ -1,0 +1,79 @@
+{
+  "status": "exact",
+  "distance": 15,
+  "lower_bound": 15,
+  "upper_bound": 15,
+  "witness": {
+    "limit": 15,
+    "nodes": 1902464,
+    "complete": false,
+    "found": true,
+    "frontier_size": 0,
+    "seconds": 1.94636,
+    "witness": [
+      [
+        0,
+        3
+      ],
+      [
+        64,
+        2
+      ],
+      [
+        132,
+        2
+      ],
+      [
+        180,
+        1
+      ],
+      [
+        196,
+        2
+      ],
+      [
+        351,
+        2
+      ],
+      [
+        381,
+        2
+      ],
+      [
+        398,
+        2
+      ],
+      [
+        406,
+        2
+      ],
+      [
+        436,
+        2
+      ],
+      [
+        445,
+        2
+      ],
+      [
+        462,
+        2
+      ],
+      [
+        470,
+        2
+      ],
+      [
+        479,
+        2
+      ]
+    ],
+    "verified_weight": 15,
+    "candidate": "fe8b45c784dc616b3955",
+    "side": "Z"
+  },
+  "input_sha256": {
+    "X": "373d62be74f93049b02685865f2533cc771139a1377a86be5b8bf16a0a97a65b",
+    "Z": "3073ebe91e4f820b8f29a173c480c560026ccaba93541cffbc72a2fb0757dde0"
+  }
+}

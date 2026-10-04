@@ -1,0 +1,7 @@
+{
+  "status": "exact",
+  "d": 12,
+  "no_witness_through": 11,
+  "independent_witness_check": "independent-audit.json",
+  "scope": "fixed binary matrices identified by metadata.json hashes"
+}

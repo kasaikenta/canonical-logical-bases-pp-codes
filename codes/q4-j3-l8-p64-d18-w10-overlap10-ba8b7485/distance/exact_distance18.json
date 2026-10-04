@@ -1,0 +1,296 @@
+{
+  "lower_bound": 18,
+  "upper_bound": 18,
+  "completed_original_roots_per_stage": 48,
+  "complete_disjoint_leaves_per_stage": {
+    "13": 48,
+    "14": 48,
+    "15": 83
+  },
+  "basis_max": 39,
+  "status": "exact",
+  "completed_leaf_events_followed_by_metadata_storage_error": [
+    {
+      "id": "b3308deda0c5f9f3724e_w15_Z_b0_a1.4",
+      "error": "[Errno 122] Disk quota exceeded: '/home/2/ub04332/pp1024_overlap10_20261005/balanced/cursor.json.tmp'"
+    }
+  ],
+  "explanation": "The valid complete DFS event is retained. The later failure occurred while queuing the following stage after the stage-15 certificate was complete.",
+  "n": 1024,
+  "k": 256,
+  "J": 3,
+  "L": 8,
+  "P": 64,
+  "check_max": 10,
+  "binary_CSS_verified": true,
+  "complete_canonical_basis_verified": true,
+  "integer_overlap_identity_verified": true,
+  "binary_girth": [
+    4,
+    4
+  ],
+  "symbol_girth": [
+    6,
+    6
+  ],
+  "no_witness_through": 17,
+  "candidate_id": "b3308deda0c5f9f3724e",
+  "stage16": {
+    "original_roots": 48,
+    "completed_original_roots_before_resume": 45,
+    "resumed_roots": [
+      "X_b0_a2",
+      "Z_b0_a1",
+      "Z_b0_a2"
+    ],
+    "expanded_disjoint_partitions": 1479,
+    "complete_pilot_partitions": 4,
+    "complete_TSUBAME_partitions": 1475,
+    "errors": [],
+    "original_root_result_sha256": {
+      "X_b1_a2.json": "88fa3459e4a86e1b270da3542aa8b8ded2986760c0114a739a246a874c639698",
+      "X_b0_a3.json": "84cdd18ff6c5908ac2060e3f70eacbf4e8a5c2c6788b2b130bc0f6631722fcf3",
+      "X_b4_a1.json": "3eb33ed02a4389ab24c0755ef27e119e948645990fb0b56d3f4a83bca701fc32",
+      "Z_b7_a1.json": "66e5c4f3212dfe985d3a0553a319a88f3b5a68c6761413625202999204289cc9",
+      "Z_b3_a3.json": "07dbeb19c89b347f3fc2c7d840ebbb0386e61f2216600183824a98a2db356f2d",
+      "Z_b2_a2.json": "c26cdb462b8b39480d2cf5785d4f2c27ec8191b6bf7843278e3063c571e8e8a3",
+      "Z_b6_a1.json": "8d56bf8c532713c5cd53377676a99c2d0cdc0c69c097e8f64f4b006af2183f09",
+      "Z_b2_a3.json": "68786689e65968602c5d2941c504e5877beffcf46b84666552fb778c8aaba8a4",
+      "Z_b3_a2.json": "3288f8067953e002bf8ab8f12871c4e426b394f39930d27e63955e23edd8b5bb",
+      "X_b0_a2.json": "060ee995a98b0cd8f6d7ebee0deb1494c2e754f4e062d983cc67120d0036e9ca",
+      "X_b1_a3.json": "7ce8d5c1304758401e1a4b255a96337ac06d6b3d39b5c763777e56c23dd5e8e7",
+      "X_b5_a1.json": "5af683da14c0af0531539d4e61f19c5c6443131bedd350ff78a66cdf8b8e56fa",
+      "Z_b0_a3.json": "8523d98d159932a1e5410771151479911218cf3f02b4ccca671e15cd9a7374b9",
+      "Z_b4_a1.json": "efc4c950d06a2373e9f3926201bbcbd18c55e1e783bd5209a3c230c0f9aaaf4a",
+      "Z_b1_a2.json": "9e903e604f2dfb4c1c3374484cb6739a8af8239e8837318901c8aeed74c62053",
+      "X_b2_a2.json": "64746ade4412a744954b8cf9765d117e65bc8634f8621155bee6e2f8f6c3d225",
+      "X_b7_a1.json": "1bcf3f4aa21e2afa9b4339421ca71f1f55a863d27b7dce8f6ab521265400403e",
+      "X_b3_a3.json": "e59006e3a0d9745bb0399d2e54510a66b4853a35cc1afbc76a09ec74c3119b7b",
+      "X_b3_a2.json": "4248b26aca5f1dfa99902e2fc2fe43e0cabf9b63956cfaa635769c731bcf4cef",
+      "X_b6_a1.json": "971963e6f0c45a0bbd10131f2a40cbce539aa55f1a09608eaf5220ac44f9705d",
+      "X_b2_a3.json": "bd50f8e4e112d2ab76440084e00f0e55c47128e6bc84838e90956b307e66cc20",
+      "Z_b1_a3.json": "e9e98907acb53a223ce1813c2dbe8369054e9b589811831d06de2c84ad44bc98",
+      "Z_b5_a1.json": "0c80ba1dadfeb2620b69e50b3af5b9d1abbf02438b41987f0b55f753f7d56122",
+      "Z_b0_a2.json": "d43b28aa59be5c2228c2588433344bc0e8a3576e596b5a3f107ebf6b15ec42d5",
+      "Z_b5_a2.json": "46a1ff2aec0439022623a7ed4aa5479dd44037af87e958c010e7338a06605f5e",
+      "Z_b4_a3.json": "599855cf6c82cee3110e748c543f2ad436f97ede7c675347024a40b419d483cb",
+      "Z_b0_a1.json": "03d4f9e08471ed791247e19d9acf895ba259ab959cbc38434470fc3749ff7847",
+      "X_b3_a1.json": "a870e62ebd42aef46bc8b40b1a87061688ae36513c707cb93b3b4de1218378ba",
+      "X_b7_a3.json": "7c489b19d3b36326693e7f102c0af00c287dcff39f052c0ce9d99e759ef2bac6",
+      "X_b6_a2.json": "6ded468b1f0c4a0cf8647b92d273ac04571ac28ba4fdf0cea6bcb31dc334aeb1",
+      "X_b2_a1.json": "a476bc6ad9c4cf95079acd03d2f7dabe5b3f622197716d4c8a81d209be3789b4",
+      "X_b6_a3.json": "70d4baab3b1570804338408b9a6a5c28500c9d125a441e5a4316b17d698cac2f",
+      "X_b7_a2.json": "10db63974cef1f8e3c053b04bdbb1144bb88777f4d60e128e46f9372426c808f",
+      "Z_b4_a2.json": "f95ae27ae85e32e0ffc7c0dbb39acd1522e20332bb83b46a48fe830139f6ac61",
+      "Z_b5_a3.json": "fa4496689c6a6ef78eea45a639aa3ccc15dd4571f95beb389de5bef914115864",
+      "Z_b1_a1.json": "f71532f0545fc957f7447f3d758a8d3d067646a0275e9812c3142768e7f2bfda",
+      "X_b4_a3.json": "dc7cd1c9aa015da48f89536e6851f64b41e0a7050a47b4a93abf5c0d8b995408",
+      "X_b0_a1.json": "0720e5ba73f876966e13599a6b9bc4145566f20625e3aae0dd79bf64fba44a78",
+      "X_b5_a2.json": "6cde1e6f3f82a719bde5888d241445938c24224ef38a37f0b8300a72c517b41c",
+      "Z_b6_a2.json": "d16cba548792ff3b98b93ec035b5884341f60fa94c6143463fa90896df83177e",
+      "Z_b3_a1.json": "5824205bb7d1e0c5e6f9bcac141e6f576917ecb912ea44151ac2f148e3bf3708",
+      "Z_b7_a3.json": "3fd42c33824f816944c47a5ec444e319702861a81fe6412d0c9512c21b474cca",
+      "Z_b7_a2.json": "ab9561730f8d25d0c949e818629ca59d42b82b05087b10319b85951778eb0ead",
+      "Z_b2_a1.json": "9c0909def315f68e51d69e10c6caeeb78b319fa5a5bb4ea5c5d98862b0ff7650",
+      "Z_b6_a3.json": "947cf47561c06af03e0de6b4b8a00f0f271b9b34c256d56aa990214cd70f184f",
+      "X_b5_a3.json": "b2951fe2a202514344417486a26cfb6d41c96010027b1cf656cfbd209457fa16",
+      "X_b1_a1.json": "2bfc330c5472a74be6b695c89841db9548f16f39586e987da5114e452400e70a",
+      "X_b4_a2.json": "6290835ae0e75a2c8fd676ffea1ed54fd39606020205dd36e29be357e8d783be"
+    },
+    "expanded_frontier_sha256": {
+      "Z_b0_a1_depth4.frontier": "6d13f5da7c3c35cb717bcd3d8587f31f5057c029db51820e16a7c91704ca3df2",
+      "Z_b0_a2_depth4.frontier": "68a8b29f681c194e5137e7a4567049a38913913e6379eeaa7801176590c39fe9",
+      "X_b0_a2_depth4.frontier": "574d795ad23073abde771dfc7d56c68c89b2441ab6d7f96e255db4b2563371da"
+    },
+    "pilot_journal_sha256": "41900d6e3cd36c61a65c311bf1fa164270e3f9c1d67ae597d0db3b6ed26cc079"
+  },
+  "upper_bound_witness": {
+    "side": "Z",
+    "weight": 28,
+    "basis_row": 0,
+    "support": [
+      1,
+      13,
+      44,
+      56,
+      64,
+      65,
+      109,
+      121,
+      161,
+      173,
+      184,
+      185,
+      205,
+      224,
+      225,
+      237,
+      248,
+      257,
+      268,
+      269,
+      288,
+      300,
+      301,
+      320,
+      332,
+      353,
+      365,
+      384
+    ]
+  },
+  "sha256": {
+    "matrices.npz": "77746612467f07c38e4e7160e21b519d4538e76f9682a21c9e563ebb53cbca7d",
+    "distance_resume.cpp": "2b0136319afad901c1441dfdb3afb0df4838e049bc0e35ecaaf8df93b1011cd5",
+    "distance_X.txt": "858078a0ebebed468db475742e19908a630e2fe408dcd77ff58a17daeb13e56d",
+    "distance_Z.txt": "869969220b86f4826bef3982267d70cf13885b66d2ebd7fcc8c0ceb1dad2660f",
+    "initial_jobs.json": "5914c7232d1ff571a84dd65b1b5b27eb5ed374b56a32bed1629a60004f6c47c0",
+    "pending_jobs.json": "3a546d3839d8112b6502c4f28fdaedcb29c030152cef9a5c531c4a3333d00923",
+    "dedicated_journal.jsonl": "dc2f0a566d41267250eeefb466d8173449dd4627297ee761051918d8400f6d63",
+    "stage17_jobs.json": "9c6f1797b4c0e206f60fec7b0e27469ee79bc94c0bad0481b947bc4fef26b15b",
+    "dedicated_final.jsonl.gz": "b43b81812590a3e32b2931f63b0c08ac272f4b4f1f7f7f42f0d099e58c9dc786",
+    "exact18_config.json": "481064c0f0036411b7a99250707ed4f6de3df5f13171d0eddaf2c7777f5a9456",
+    "verify_exact18.py": "84dd0c5883564d8dbd3e6e7d49ec895e4adfd739a233675e07aee673e93225cc"
+  },
+  "distance": 18,
+  "exact_distance_verified": true,
+  "stage17": {
+    "original_roots": 48,
+    "empty_roots": [
+      "X_b7_a1",
+      "X_b7_a2",
+      "X_b7_a3",
+      "Z_b7_a1",
+      "Z_b7_a2",
+      "Z_b7_a3"
+    ],
+    "initial_disjoint_partitions": 4536,
+    "complete_disjoint_leaves": 6412,
+    "incomplete_leaves": 0,
+    "errors": []
+  },
+  "binary_witness": {
+    "side": "X",
+    "weight": 18,
+    "support_zero_based": [
+      1,
+      65,
+      172,
+      236,
+      288,
+      289,
+      352,
+      353,
+      417,
+      481,
+      526,
+      590,
+      700,
+      764,
+      812,
+      876,
+      950,
+      1014
+    ],
+    "syndrome_weight": 0,
+    "logical_pairing_nonzero_rows": [
+      8,
+      12,
+      33,
+      53,
+      72,
+      76,
+      97,
+      117,
+      148,
+      152,
+      153,
+      160,
+      165,
+      169,
+      172,
+      181,
+      182,
+      184,
+      212,
+      216,
+      217,
+      224,
+      229,
+      233,
+      236,
+      245,
+      246,
+      248
+    ],
+    "outside_stabilizer_row_space": true,
+    "GF4_symbol_values": [
+      [
+        0,
+        2
+      ],
+      [
+        32,
+        2
+      ],
+      [
+        86,
+        1
+      ],
+      [
+        118,
+        1
+      ],
+      [
+        144,
+        3
+      ],
+      [
+        176,
+        3
+      ],
+      [
+        208,
+        2
+      ],
+      [
+        240,
+        2
+      ],
+      [
+        263,
+        1
+      ],
+      [
+        295,
+        1
+      ],
+      [
+        350,
+        1
+      ],
+      [
+        382,
+        1
+      ],
+      [
+        406,
+        1
+      ],
+      [
+        438,
+        1
+      ],
+      [
+        475,
+        1
+      ],
+      [
+        507,
+        1
+      ]
+    ]
+  },
+  "distance_input_kernel_and_label_agreement_verified": true,
+  "cyclic_symmetry_verified": true
+}

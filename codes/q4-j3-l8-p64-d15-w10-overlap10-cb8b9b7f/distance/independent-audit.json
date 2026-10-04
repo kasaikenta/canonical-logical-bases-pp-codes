@@ -1,0 +1,45 @@
+{
+  "source": "construction.json and matrices.npz",
+  "d": 15,
+  "CSS": true,
+  "canonical_complete": true,
+  "integer_overlap_identity": true,
+  "girth_binary": [
+    4,
+    4
+  ],
+  "girth_symbol": [
+    6,
+    6
+  ],
+  "distance_lower_scope": {
+    "complete_original_roots": 48,
+    "complete_disjoint_leaves": 48
+  },
+  "witness_weight": 15,
+  "witness_side": "Z",
+  "binary_support_zero_based": [
+    0,
+    1,
+    129,
+    265,
+    360,
+    393,
+    703,
+    763,
+    797,
+    813,
+    873,
+    891,
+    925,
+    941,
+    959
+  ],
+  "matrix_hashes": {
+    "HX": "cb8b9b7f76bf27f94f4d759bde41c18531fe2a1108c43b01c68134e1bd33ca81",
+    "HZ": "c4dd9b90d5c94cfc3014a3711e52393b2ee43c9dc5c22b8408a5e7f6321dd166",
+    "LX": "c585bfa7d7950ff936e00261f8ed2981b762d6fbc3012b9112de5e8d8f3339e5",
+    "LZ": "594d8a21baf7a71ad4aa0185145caf212ad62565aa849917063c5a4e36f8dcb7"
+  },
+  "distance_input_binary_kernel_and_logical_labels_verified": true
+}

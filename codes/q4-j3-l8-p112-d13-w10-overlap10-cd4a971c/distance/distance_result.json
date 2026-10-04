@@ -1,0 +1,62 @@
+{
+  "status": "exact",
+  "lower_bound": 13,
+  "upper_bound": 13,
+  "distance": 13,
+  "witness": {
+    "side": "X",
+    "word": [
+      [
+        336,
+        2
+      ],
+      [
+        378,
+        2
+      ],
+      [
+        420,
+        2
+      ],
+      [
+        461,
+        1
+      ],
+      [
+        560,
+        3
+      ],
+      [
+        588,
+        1
+      ],
+      [
+        602,
+        3
+      ],
+      [
+        686,
+        1
+      ],
+      [
+        798,
+        1
+      ],
+      [
+        826,
+        1
+      ],
+      [
+        882,
+        2
+      ]
+    ],
+    "weight": 13,
+    "verified_syndrome_zero": true,
+    "verified_nontrivial": true
+  },
+  "input_sha256": {
+    "X": "99d15020e83b186b22511193881d6b6aed5aec936909245fd0f463f04a446762",
+    "Z": "46c8dd160f6514d90cc1c10cbc38478c69d9a8338fdb960d59717324e8c3ee50"
+  }
+}

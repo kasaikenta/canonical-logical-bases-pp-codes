@@ -1,0 +1,11 @@
+{
+  "limit": 12,
+  "nodes": 18715,
+  "complete": true,
+  "found": false,
+  "frontier_size": 0,
+  "seconds": 0.0187026,
+  "witness": [],
+  "side": "Z",
+  "input_sha256": "12ca58cf48a7bc081c1cf9c7d56c494811c999f32576e6e69884cbcdda868401"
+}

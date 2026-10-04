@@ -1,0 +1,59 @@
+{
+  "source": "construction.json and matrices.npz",
+  "d": 18,
+  "CSS": true,
+  "canonical_complete": true,
+  "integer_overlap_identity": true,
+  "girth_binary": [
+    4,
+    4
+  ],
+  "girth_symbol": [
+    6,
+    6
+  ],
+  "distance_lower_scope": {
+    "original_roots": 48,
+    "empty_roots": [
+      "X_b7_a1",
+      "X_b7_a2",
+      "X_b7_a3",
+      "Z_b7_a1",
+      "Z_b7_a2",
+      "Z_b7_a3"
+    ],
+    "initial_disjoint_partitions": 4536,
+    "complete_disjoint_leaves": 6412,
+    "incomplete_leaves": 0,
+    "errors": []
+  },
+  "witness_weight": 18,
+  "witness_side": "X",
+  "binary_support_zero_based": [
+    1,
+    65,
+    172,
+    236,
+    288,
+    289,
+    352,
+    353,
+    417,
+    481,
+    526,
+    590,
+    700,
+    764,
+    812,
+    876,
+    950,
+    1014
+  ],
+  "matrix_hashes": {
+    "HX": "ba8b74856d0d4054f757008051716ed5dc716422c9135aa76742baec41919909",
+    "HZ": "6fd085177579afbdccc18a587e3c3dcf72058b938a175dfea503d918624e9278",
+    "LX": "201e9c38ac79f0fdab4587215e999f80d0d8d3548fba192e5328ca31f39b6c18",
+    "LZ": "8bd11350e902d528999d14b8595226a69347993799394615937d7106ce58ce67"
+  },
+  "distance_input_binary_kernel_and_logical_labels_verified": true
+}

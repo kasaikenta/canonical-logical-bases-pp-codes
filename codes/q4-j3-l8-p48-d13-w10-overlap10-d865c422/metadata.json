@@ -1,0 +1,76 @@
+{
+  "id": "q4-j3-l8-p48-d13-w10-overlap10-d865c422",
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 8,
+  "P": 48,
+  "n": 768,
+  "k": 192,
+  "d": 13,
+  "girth_symbol": 6,
+  "girth_binary": 4,
+  "column_weight": "3,4,6",
+  "max_check_row_weight": 10,
+  "check_rank_each": 288,
+  "gram": "omega*z^42",
+  "max_basis_weight_x": 26,
+  "max_basis_weight_z": 26,
+  "distance_status": "exact",
+  "construction_status": "full polynomial checks, canonical seeds, and binary matrices",
+  "basis_normalization": "individual determinant inverses",
+  "max_overlap_same": 1,
+  "max_overlap_different": 0,
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "d865c42245c2468bba4cb1df00814c812488a9d52666c787af139b06114510a4",
+    "HZ": "3003744fab2141b609f82d2a03d1441ffa84947b16bb4dda9e2c13da49391a50",
+    "LX": "fe3c82f60ad85e944fd51276e1fa73ba403e8486f7bd5c809d7f4793184e0649",
+    "LZ": "d429e28a6074f66c6a96c8900e5610fc61ec3040e9deaccf107633c1530f5ece"
+  },
+  "matrix_shapes": {
+    "HX": [
+      288,
+      768
+    ],
+    "HZ": [
+      288,
+      768
+    ],
+    "LX": [
+      192,
+      768
+    ],
+    "LZ": [
+      192,
+      768
+    ]
+  },
+  "check_row_weights_HX": {
+    "9": 144,
+    "10": 144
+  },
+  "check_row_weights_HZ": {
+    "9": 144,
+    "10": 144
+  },
+  "check_column_weights_HX": {
+    "3": 528,
+    "4": 144,
+    "6": 96
+  },
+  "check_column_weights_HZ": {
+    "3": 528,
+    "4": 144,
+    "6": 96
+  },
+  "basis_weights_LX": {
+    "24": 48,
+    "25": 48,
+    "26": 96
+  },
+  "basis_weights_LZ": {
+    "24": 48,
+    "25": 48,
+    "26": 96
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "candidate": "fe8b45c784dc616b3955",
+  "J": 3,
+  "L": 8,
+  "P": 64,
+  "n": 1024,
+  "k": 256,
+  "d": 15,
+  "status": "exact",
+  "basis_max": 39,
+  "check_max": 10,
+  "max_overlap_corresponding": 1,
+  "max_overlap_noncorresponding": 0,
+  "CSS": true,
+  "canonical_complete": true,
+  "binary_girth": [
+    4,
+    4
+  ],
+  "symbol_girth": [
+    6,
+    6
+  ],
+  "distance_coverage": {
+    "13": {
+      "complete_original_roots": 48,
+      "complete_disjoint_leaves": 48
+    },
+    "14": {
+      "complete_original_roots": 48,
+      "complete_disjoint_leaves": 48
+    }
+  },
+  "weight_15_nontrivial_witness_verified": true,
+  "scope_note": "Distance proven for this specific code; no global optimum claimed."
+}

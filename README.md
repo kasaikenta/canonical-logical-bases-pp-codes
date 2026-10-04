@@ -87,3 +87,15 @@ Please cite the paper and the archived release identified in `CITATION.cff`.
 
 Code is released under the MIT License.  Numerical data are released under
 CC0-1.0; see `DATA-LICENSE`.
+
+## Additional overlap-identity constructions
+
+Twenty-five further fixed constructions have been independently audited.
+Their complete binary canonical bases have integer support-overlap identity.
+The added data include exact [[1024,256,15]] and [[1024,256,18]] instances
+with maximum basis weights 39/39 and maximum check weight 10, and additional
+distance-11, distance-12, and distance-13 instances with maximum basis weights
+26 or 27. The main paper groups constructions with identical displayed
+metrics into one row; the catalog retains each archived construction.
+For all additions, both X and Z search scopes through d-1 and a checked
+weight-d witness are recorded in each `distance/` directory.
