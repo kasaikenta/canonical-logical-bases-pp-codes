@@ -1,0 +1,84 @@
+{
+  "distance": 20,
+  "distance_status": "exact",
+  "lower_bound": 20,
+  "upper_bound": 20,
+  "witness": {
+    "side": "X",
+    "word": [
+      [
+        0,
+        2
+      ],
+      [
+        32,
+        2
+      ],
+      [
+        69,
+        1
+      ],
+      [
+        101,
+        1
+      ],
+      [
+        132,
+        1
+      ],
+      [
+        164,
+        1
+      ],
+      [
+        213,
+        1
+      ],
+      [
+        245,
+        1
+      ],
+      [
+        284,
+        3
+      ],
+      [
+        316,
+        3
+      ],
+      [
+        339,
+        3
+      ],
+      [
+        371,
+        3
+      ],
+      [
+        389,
+        2
+      ],
+      [
+        421,
+        2
+      ],
+      [
+        458,
+        1
+      ],
+      [
+        490,
+        1
+      ]
+    ]
+  },
+  "input_sha256": {
+    "X": "8c3795ac3bd67a355367b40ea172af20d5f9468ee7dc3a4a007721ecafbe1f2a",
+    "Z": "4b7da9b5216569d46e3974302e4057104971ba33cf10035d54e0f762d139aced"
+  },
+  "complete_original_roots": 48,
+  "no_witness_through": 19,
+  "search_engine_source": "distance_resume.cpp",
+  "search_engine_source_sha256": "361705b4146890a6485a246f95405bdb4d4f6373908de4987585797201a152b2",
+  "search_engine_binary_sha256": "4f04a6f3ee228296e56d918b538693592881871a8c20d709f1b594bfd9b0a12b"
+}

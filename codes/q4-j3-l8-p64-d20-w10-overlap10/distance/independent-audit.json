@@ -1,0 +1,25 @@
+{
+  "candidate": "5bdec374bfd96b0493fb",
+  "CSS_and_kernels": true,
+  "ranks": [
+    384,
+    384,
+    256,
+    256
+  ],
+  "cyclic_symmetry_verified": true,
+  "integer_overlap_identity": true,
+  "n": 1024,
+  "k": 256,
+  "max_check_weight": 10,
+  "max_basis_weight": 25,
+  "upper_bound_witness_verified": true,
+  "witness_weight": 20,
+  "distance_engine_recorded_bounds": [
+    20,
+    20
+  ],
+  "distance_status": "exact",
+  "distance": 20,
+  "matrix_npz_sha256": "6481774df2fd73ef69e0a5327267c54cc40b31133845d5595a74a3f766b99590"
+}

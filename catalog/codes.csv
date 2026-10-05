@@ -28,6 +28,7 @@ q4-j3-l8-p64-d13-w10-overlap10-0af62e79,quaternary-single-CPM-PP,3,8,64,1024,256
 q4-j3-l8-p64-d13-w10-overlap10-2faf22a4,quaternary-single-CPM-PP,3,8,64,1024,256,13,6,4,"3,4,6",10,384,omega*z^56,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
 q4-j3-l8-p64-d15-w10-overlap10-cb8b9b7f,quaternary-single-CPM-PP,3,8,64,1024,256,15,6,4,"3,4,5,6",10,384,omega^2*z^20,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices"
 q4-j3-l8-p64-d18-w10-overlap10-ba8b7485,quaternary-single-CPM-PP,3,8,64,1024,256,18,6,4,"3,4,5,6",10,384,omega^2*z^58,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices"
+q4-j3-l8-p64-d20-w10-overlap10,quaternary-single-CPM-PP,3,8,64,1024,256,20,6,4,"3,4,5",10,384,omega^2*z^37,25,25,exact,"full polynomial checks, canonical seeds, and binary matrices"
 q4-j3-l8-p72-d11-w9-overlap10-e3140360,quaternary-single-CPM-PP,3,8,72,1152,288,11,6,6,"3,4",9,432,omega*z^63,27,27,exact,"full polynomial checks, canonical seeds, and binary matrices"
 q4-j3-l8-p80-d13-w10-overlap10-1676bbe6,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
 q4-j3-l8-p80-d13-w10-overlap10-4a0a3898,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"

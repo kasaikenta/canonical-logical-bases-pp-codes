@@ -99,3 +99,7 @@ distance-11, distance-12, and distance-13 instances with maximum basis weights
 metrics into one row; the catalog retains each archived construction.
 For all additions, both X and Z search scopes through d-1 and a checked
 weight-d witness are recorded in each `distance/` directory.
+
+## Exact [[1024,256,20]] with overlap identity
+
+The [P=64 code](codes/q4-j3-l8-p64-d20-w10-overlap10/README.md) has exact distance 20, maximum binary check weight 10, maximum canonical basis weights 25/25, and integer overlap identity I_256. Symbol girths are 6/6 and binary girths 4/4. The archived cofactor construction reproduces every saved matrix, and the distance records cover all 48 cyclic-symmetry roots through weight 19 and a verified weight-20 X logical operator.
