@@ -1,0 +1,51 @@
+{
+  "id": "q4-j3-l8-p128-d20-w10-overlap10",
+  "passed": true,
+  "checks": {
+    "binary_entries": true,
+    "shapes": true,
+    "css": true,
+    "hz_lx": true,
+    "hx_lz": true,
+    "canonical": true,
+    "rank_hx": true,
+    "rank_hz": true,
+    "rank_lx": true,
+    "rank_lz": true,
+    "hashes": true,
+    "max_check_row_weight": true,
+    "max_basis_weight_x": true,
+    "max_basis_weight_z": true
+  },
+  "computed": {
+    "rank_HX": 768,
+    "rank_HZ": 768,
+    "check_row_weights_HX": {
+      "9": 512,
+      "10": 256
+    },
+    "check_row_weights_HZ": {
+      "9": 512,
+      "10": 256
+    },
+    "check_column_weights_HX": {
+      "3": 1152,
+      "4": 768,
+      "5": 128
+    },
+    "check_column_weights_HZ": {
+      "3": 1152,
+      "4": 768,
+      "5": 128
+    },
+    "basis_weights_LX": {
+      "24": 256,
+      "27": 256
+    },
+    "basis_weights_LZ": {
+      "24": 256,
+      "27": 256
+    }
+  },
+  "integer_support_overlap_identity": true
+}

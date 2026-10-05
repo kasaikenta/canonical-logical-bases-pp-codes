@@ -1,0 +1,24 @@
+{
+  "status": "exact",
+  "lower_bound": 20,
+  "upper_bound": 20,
+  "no_nontrivial_logical_through": 19,
+  "both_CSS_sides": true,
+  "symmetry_roots": 48,
+  "upper_witness_weight": 20,
+  "matrix_sha256": {
+    "HX": "f85ba819ce58e68afa20cd64f3f16317c43ebcd41200c1b82bddb3227fc6e390",
+    "HZ": "b408d168624e1889770c6b4886bfe40c07b3918039fcfc2533764939e2a6442c",
+    "LX": "ca5447875fa150cf833990d0d0fa8999a4d5e1a6e209fc7ab37c929956291abd",
+    "LZ": "4b0c2e5acc690f6e7d3cab6290e9e106a189d0a77e8a746e121dcef932f01d59"
+  },
+  "input_sha256": {
+    "X": "67a4e5c1b470b433c36ccc65fc15d87607b2cbab751f0111876462abb06fbfd5",
+    "Z": "02779307b8df707178aa1027fc6d6462d40b3218c39f107c030ea3dfea606e47"
+  },
+  "engine_source_sha256": "2b0136319afad901c1441dfdb3afb0df4838e049bc0e35ecaaf8df93b1011cd5",
+  "lower_bound_records": "stage-completion-records.json",
+  "upper_bound_record": "upper-bound-witness.json",
+  "distance24_requirement": false,
+  "d": 20
+}

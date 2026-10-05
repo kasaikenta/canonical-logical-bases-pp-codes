@@ -2439,5 +2439,27 @@
     "max_basis_weight_z": 33,
     "distance_status": "exact; inherited from identical stabilizer row spaces",
     "construction_status": "dependent fourth block row and final matrices"
+  },
+  {
+    "id": "q4-j3-l8-p128-d20-w10-overlap10",
+    "family": "quaternary-single-CPM-PP",
+    "J": 3,
+    "L": 8,
+    "P": 128,
+    "n": 2048,
+    "k": 512,
+    "d": 20,
+    "d_lower_bound": 20,
+    "d_upper_bound": 20,
+    "girth_symbol": 6,
+    "girth_binary": 4,
+    "column_weight": "3,4,5",
+    "max_check_row_weight": 10,
+    "check_rank_each": 768,
+    "gram": "omega*z^109",
+    "max_basis_weight_x": 27,
+    "max_basis_weight_z": 27,
+    "distance_status": "exact",
+    "construction_status": "complete polynomial recipe and final matrices"
   }
 ]

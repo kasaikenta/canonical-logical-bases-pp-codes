@@ -103,3 +103,5 @@ weight-d witness are recorded in each `distance/` directory.
 ## Exact [[1024,256,20]] with overlap identity
 
 The [P=64 code](codes/q4-j3-l8-p64-d20-w10-overlap10/README.md) has exact distance 20, maximum binary check weight 10, maximum canonical basis weights 25/25, and integer overlap identity I_256. Symbol girths are 6/6 and binary girths 4/4. The archived cofactor construction reproduces every saved matrix, and the distance records cover all 48 cyclic-symmetry roots through weight 19 and a verified weight-20 X logical operator.
+
+A further P128 instance has a exact distance 20, maximum basis weights 27/27, and integer overlap I512. Its complete matrices, recipe, upper witness and staged lower-bound records are in [`the exact-distance instance`](codes/q4-j3-l8-p128-d20-w10-overlap10/README.md).

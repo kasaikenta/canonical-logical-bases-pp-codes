@@ -1,0 +1,183 @@
+{
+  "candidate": "q4-j3-l8-p128-d20-w10-overlap10",
+  "completed_limits": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "records": [
+    {
+      "time": 1791185552.1107645,
+      "type": "stage_complete_from_reused_cut",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "no_witness_through": 1,
+      "all48_roots_accounted_for": true
+    },
+    {
+      "time": 1791185553.1843102,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 2,
+      "roots": 48
+    },
+    {
+      "time": 1791185556.175293,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 3,
+      "roots": 48
+    },
+    {
+      "time": 1791185562.4994986,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 4,
+      "roots": 48
+    },
+    {
+      "time": 1791185573.0634024,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 5,
+      "roots": 48
+    },
+    {
+      "time": 1791185589.7024376,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 6,
+      "roots": 48
+    },
+    {
+      "time": 1791185609.7701542,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 7,
+      "roots": 48
+    },
+    {
+      "time": 1791185639.62368,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 8,
+      "roots": 48
+    },
+    {
+      "time": 1791185668.5110734,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 9,
+      "roots": 48
+    },
+    {
+      "time": 1791185696.6567597,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 10,
+      "roots": 48
+    },
+    {
+      "time": 1791185733.5175724,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 11,
+      "roots": 48
+    },
+    {
+      "time": 1791185777.0979676,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 12,
+      "roots": 48
+    },
+    {
+      "time": 1791185819.8393962,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 13,
+      "roots": 48
+    },
+    {
+      "time": 1791185860.153598,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 14,
+      "roots": 48
+    },
+    {
+      "time": 1791185903.5572767,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 15,
+      "roots": 48
+    },
+    {
+      "time": 1791185956.0745454,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 16,
+      "roots": 48
+    },
+    {
+      "time": 1791186049.0168452,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 17,
+      "roots": 48
+    },
+    {
+      "time": 1791186287.7581277,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 18,
+      "roots": 48
+    },
+    {
+      "time": 1791187631.8036082,
+      "type": "stage_complete",
+      "candidate": "P128_6ca37b6cbf3a198f2b33",
+      "P": 128,
+      "no_witness_through": 19,
+      "roots": 48
+    }
+  ],
+  "matrix_sha256": {
+    "HX": "f85ba819ce58e68afa20cd64f3f16317c43ebcd41200c1b82bddb3227fc6e390",
+    "HZ": "b408d168624e1889770c6b4886bfe40c07b3918039fcfc2533764939e2a6442c",
+    "LX": "ca5447875fa150cf833990d0d0fa8999a4d5e1a6e209fc7ab37c929956291abd",
+    "LZ": "4b0c2e5acc690f6e7d3cab6290e9e106a189d0a77e8a746e121dcef932f01d59"
+  }
+}
