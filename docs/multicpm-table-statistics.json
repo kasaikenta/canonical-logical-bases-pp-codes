@@ -1,0 +1,231 @@
+{
+  "source_formal_family": "codes/f2-multicpm-j3-l8-p128-d22-w9/construction.json",
+  "specialization": "U=z, T=z^(P/2)",
+  "distance_note": "Distances reproduce the paper labels. This script verifies the matrices and weight distributions, not exhaustive distance certificates.",
+  "instances": [
+    {
+      "J": 3,
+      "L": 8,
+      "P": 56,
+      "h": 1,
+      "parameters_reported_in_paper": [
+        448,
+        112,
+        18
+      ],
+      "distance_verification_in_this_command": false,
+      "checks": {
+        "CSS": true,
+        "X_kernel": true,
+        "Z_kernel": true,
+        "canonical": true,
+        "check_rank": true,
+        "basis_rank": true
+      },
+      "girth_X_Z": [
+        6,
+        6
+      ],
+      "maximum_overlap": [
+        1,
+        2
+      ],
+      "matrix_sha256": {
+        "HX": "b3f6face36ad69e2320377a821f9b5d1633bce565083fce7c50e2813df7be4e9",
+        "HZ": "ed845fe45f1b970a204d333a7f5d3e8f34629bf01ad9e832104cde5124602202",
+        "LX": "10c4fc899fc7b97580e577db51b7b311dfaaa1409f58023d44c3afd2f3c6dce8",
+        "LZ": "c23e43e3d872ce72e898c0f182b49c57473504c666b7d8f7c3693e5d77c9e8ac"
+      },
+      "check_row_weights_HX": {
+        "9": 168
+      },
+      "check_row_weights_HZ": {
+        "9": 168
+      },
+      "check_column_weights_HX": {
+        "3": 280,
+        "4": 168
+      },
+      "check_column_weights_HZ": {
+        "3": 280,
+        "4": 168
+      },
+      "basis_weights_LX": {
+        "30": 56,
+        "33": 56
+      },
+      "basis_weights_LZ": {
+        "30": 56,
+        "33": 56
+      }
+    },
+    {
+      "J": 3,
+      "L": 8,
+      "P": 66,
+      "h": 1,
+      "parameters_reported_in_paper": [
+        528,
+        132,
+        19
+      ],
+      "distance_verification_in_this_command": false,
+      "checks": {
+        "CSS": true,
+        "X_kernel": true,
+        "Z_kernel": true,
+        "canonical": true,
+        "check_rank": true,
+        "basis_rank": true
+      },
+      "girth_X_Z": [
+        6,
+        6
+      ],
+      "maximum_overlap": [
+        1,
+        2
+      ],
+      "matrix_sha256": {
+        "HX": "61d983c36cb91a3a57f33f8c30c518ddb2b57bd5420317044216d40f04a0f483",
+        "HZ": "84956023c4b581da023209a6a79eb52a60b5aa16c99cc2f5ea34f246cc9d515a",
+        "LX": "769455aa9e493c14671423e6af4e69976d70609a4824f85a920ed438515c71b0",
+        "LZ": "bf9dfa11a5d74221c21ab62a4caba01d7a65a3bf4201e690ff55aba473227282"
+      },
+      "check_row_weights_HX": {
+        "9": 198
+      },
+      "check_row_weights_HZ": {
+        "9": 198
+      },
+      "check_column_weights_HX": {
+        "3": 330,
+        "4": 198
+      },
+      "check_column_weights_HZ": {
+        "3": 330,
+        "4": 198
+      },
+      "basis_weights_LX": {
+        "30": 66,
+        "33": 66
+      },
+      "basis_weights_LZ": {
+        "30": 66,
+        "33": 66
+      }
+    },
+    {
+      "J": 3,
+      "L": 8,
+      "P": 72,
+      "h": 1,
+      "parameters_reported_in_paper": [
+        576,
+        144,
+        20
+      ],
+      "distance_verification_in_this_command": false,
+      "checks": {
+        "CSS": true,
+        "X_kernel": true,
+        "Z_kernel": true,
+        "canonical": true,
+        "check_rank": true,
+        "basis_rank": true
+      },
+      "girth_X_Z": [
+        6,
+        6
+      ],
+      "maximum_overlap": [
+        1,
+        2
+      ],
+      "matrix_sha256": {
+        "HX": "2484158a4d6662003ae59787dadd9ed43763677d84488126559a0d807f59fdae",
+        "HZ": "4ab776597f027059f140eaef2ddcbf795477afdf699736644be720b329303fe4",
+        "LX": "75310644695abdbd9139e629e8e466fea52577282df0934b856353c90df7d721",
+        "LZ": "35debb5753196568baadc712f06ae822898b98617ddaeb4458e8da37fb14c011"
+      },
+      "check_row_weights_HX": {
+        "9": 216
+      },
+      "check_row_weights_HZ": {
+        "9": 216
+      },
+      "check_column_weights_HX": {
+        "3": 360,
+        "4": 216
+      },
+      "check_column_weights_HZ": {
+        "3": 360,
+        "4": 216
+      },
+      "basis_weights_LX": {
+        "30": 72,
+        "33": 72
+      },
+      "basis_weights_LZ": {
+        "30": 72,
+        "33": 72
+      }
+    },
+    {
+      "J": 3,
+      "L": 8,
+      "P": 128,
+      "h": 1,
+      "parameters_reported_in_paper": [
+        1024,
+        256,
+        22
+      ],
+      "distance_verification_in_this_command": false,
+      "checks": {
+        "CSS": true,
+        "X_kernel": true,
+        "Z_kernel": true,
+        "canonical": true,
+        "check_rank": true,
+        "basis_rank": true
+      },
+      "girth_X_Z": [
+        6,
+        6
+      ],
+      "maximum_overlap": [
+        1,
+        2
+      ],
+      "matrix_sha256": {
+        "HX": "e6a1e441f3b00538525fdb60e869498bd31ab50aecbee5c6b3d1f9572c22f11b",
+        "HZ": "623053ae021cba2291e306b577cd8a7d9421563bc9f48b22670fe3a358b0eed6",
+        "LX": "31c95fd61046b7f2ed9a0141b9d1496bf0e9f8acc638a9494d63feb371a30aaf",
+        "LZ": "f61f03b1ffb13f674237ce5e8313b56559ed1423154be0618bd8be1d4285d885"
+      },
+      "check_row_weights_HX": {
+        "9": 384
+      },
+      "check_row_weights_HZ": {
+        "9": 384
+      },
+      "check_column_weights_HX": {
+        "3": 640,
+        "4": 384
+      },
+      "check_column_weights_HZ": {
+        "3": 640,
+        "4": 384
+      },
+      "basis_weights_LX": {
+        "30": 128,
+        "33": 128
+      },
+      "basis_weights_LZ": {
+        "30": 128,
+        "33": 128
+      }
+    }
+  ]
+}

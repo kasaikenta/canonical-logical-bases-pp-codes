@@ -21,3 +21,10 @@ single-CPM construction records exponent and coefficient arrays, pivot/free
 column sets, and Gram data; the binary multi-CPM construction records its
 sparse polynomial blocks and specialization.  The binary matrices remain the
 authoritative common representation across families.
+
+Weight histograms map the weight to its count, separately for each matrix.
+For example, `check_column_weights_HX` describes the column counts of HX and
+`basis_weights_LX` describes the row counts of LX. The complete histograms
+for all four binary multi-CPM table instances are in
+[multicpm-table-statistics.json](multicpm-table-statistics.json), with
+[reading and reproduction instructions](multicpm-table-statistics.md).

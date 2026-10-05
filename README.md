@@ -5,6 +5,12 @@ Logical Bases from Pair-Partition Codes** by Koki Okada and Kenta Kasai.  It
 contains the final binary check matrices and complete canonical logical bases
 for the codes reported in the paper and additional fully documented examples.
 
+Detailed column counts and complete canonical-basis weight distributions for
+all four binary multi-CPM table instances are in
+[the table-statistics page](docs/multicpm-table-statistics.md), with a
+[machine-readable report](docs/multicpm-table-statistics.json) and a script
+that reconstructs all four matrices for every instance.
+
 ## Contents
 
 - `catalog/codes.csv` and `catalog/codes.json`: one row per archived code.
