@@ -1,0 +1,33 @@
+{
+  "engine": "physical_binary_bit_branching_v1",
+  "root_scope": "two physical-bit roots per base column",
+  "solver_source": "quotient_search_physical_bits.cpp",
+  "bound": 18,
+  "complete_exclusion": true,
+  "found": false,
+  "timed_out": false,
+  "completed_roots": 16,
+  "total_roots": 16,
+  "nodes": 542311689,
+  "elapsed_seconds": 210.846975909,
+  "wall_seconds": 100.56212401390076,
+  "witness": [],
+  "partition_files": [
+    "Z_physical_partition_bound18/root0_0.json",
+    "Z_physical_partition_bound18/root1_0.json",
+    "Z_physical_partition_bound18/root2_0.json",
+    "Z_physical_partition_bound18/root3_0.json",
+    "Z_physical_partition_bound18/root4_0.json",
+    "Z_physical_partition_bound18/root5_0.json",
+    "Z_physical_partition_bound18/root6_0.json",
+    "Z_physical_partition_bound18/root7_0.json",
+    "Z_physical_partition_bound18/root8_0.json",
+    "Z_physical_partition_bound18/root9_0.json",
+    "Z_physical_partition_bound18/root10_0.json",
+    "Z_physical_partition_bound18/root11_0.json",
+    "Z_physical_partition_bound18/root12_0.json",
+    "Z_physical_partition_bound18/root13_0.json",
+    "Z_physical_partition_bound18/root14_0.json",
+    "Z_physical_partition_bound18/root15_0.json"
+  ]
+}

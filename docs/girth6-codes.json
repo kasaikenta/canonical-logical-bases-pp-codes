@@ -1,0 +1,2127 @@
+{
+  "codes": [
+    {
+      "id": "q4-j3-l8-p13-d10-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 13,
+      "n": 208,
+      "k": 52,
+      "d": 10,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 78,
+      "gram": "unit (6 terms)",
+      "gram_terms": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          11,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 24,
+      "max_basis_weight_z": 24,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "4795580ea4a4a79ec7ccd3f5354ed313de61a29f59d3c5c2c30aa90659a0f038",
+        "HZ": "1a80107002fd4456b4f1e579c486f4127949f6464d5c02e86d9e7e42fe357b17",
+        "LX": "74248b353a824771958e9ce868e0844cde5eed9f3c43223be277015e9d76cff9",
+        "LZ": "497d88c2a95b6decc7e12e802f16f3e8bd520880d951bf619965ef9b9dcf7022"
+      },
+      "matrix_shapes": {
+        "HX": [
+          78,
+          208
+        ],
+        "HZ": [
+          78,
+          208
+        ],
+        "LX": [
+          52,
+          208
+        ],
+        "LZ": [
+          52,
+          208
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 39,
+        "9": 39
+      },
+      "check_column_weights_HX": {
+        "3": 169,
+        "4": 39
+      },
+      "check_row_weights_HZ": {
+        "8": 39,
+        "9": 39
+      },
+      "check_column_weights_HZ": {
+        "3": 169,
+        "4": 39
+      },
+      "basis_weights_LX": {
+        "22": 13,
+        "24": 39
+      },
+      "basis_weights_LZ": {
+        "22": 13,
+        "24": 39
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p15-d11-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 15,
+      "n": 240,
+      "k": 60,
+      "d": 11,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 90,
+      "gram": "unit (6 terms)",
+      "gram_terms": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          11,
+          3
+        ],
+        [
+          13,
+          1
+        ]
+      ],
+      "max_basis_weight_x": 35,
+      "max_basis_weight_z": 35,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "e00c13bae737981a98f2dff03ba18cab453eaad6e34f69c781595ca8f1a5a77d",
+        "HZ": "06578893ed0d26a822daaaa136a6577c8b1859b9ab1b8491229b5267df43438d",
+        "LX": "f2ae8faf20c606f4bdb86653d99689e2833b15340d546a1c60fc0bd9a0b4a56b",
+        "LZ": "7a67d1c83f28b36d28eb57350005314e65effc4fcaa237f4073e576a606f199c"
+      },
+      "matrix_shapes": {
+        "HX": [
+          90,
+          240
+        ],
+        "HZ": [
+          90,
+          240
+        ],
+        "LX": [
+          60,
+          240
+        ],
+        "LZ": [
+          60,
+          240
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 45,
+        "9": 45
+      },
+      "check_column_weights_HX": {
+        "3": 195,
+        "4": 45
+      },
+      "check_row_weights_HZ": {
+        "8": 45,
+        "9": 45
+      },
+      "check_column_weights_HZ": {
+        "3": 195,
+        "4": 45
+      },
+      "basis_weights_LX": {
+        "30": 15,
+        "32": 15,
+        "33": 15,
+        "35": 15
+      },
+      "basis_weights_LZ": {
+        "30": 15,
+        "32": 15,
+        "33": 15,
+        "35": 15
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p16-d11-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 16,
+      "n": 256,
+      "k": 64,
+      "d": 11,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 96,
+      "gram": "unit (2 terms)",
+      "gram_terms": [
+        [
+          11,
+          1
+        ],
+        [
+          15,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 28,
+      "max_basis_weight_z": 28,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 3,
+      "max_overlap_different": 4,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "4e366ed6336cc2ead13db065ac8e95622f15f4c72c433d4c5535cda92d2b6c87",
+        "HZ": "3c6450ffc79501c087a08403a6f74629c67aa36db100755b7ca4f23d81f076e3",
+        "LX": "9d332d89519e5b35ac554d3532b6ce54fa8fcf3e6dd15d194254f3429d7ef515",
+        "LZ": "8514ea480e4b381875009a2f812e851b7cb37397215add53e29674b5ce14b54c"
+      },
+      "matrix_shapes": {
+        "HX": [
+          96,
+          256
+        ],
+        "HZ": [
+          96,
+          256
+        ],
+        "LX": [
+          64,
+          256
+        ],
+        "LZ": [
+          64,
+          256
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 48,
+        "9": 48
+      },
+      "check_column_weights_HX": {
+        "3": 208,
+        "4": 48
+      },
+      "check_row_weights_HZ": {
+        "8": 48,
+        "9": 48
+      },
+      "check_column_weights_HZ": {
+        "3": 208,
+        "4": 48
+      },
+      "basis_weights_LX": {
+        "22": 16,
+        "26": 16,
+        "28": 32
+      },
+      "basis_weights_LZ": {
+        "22": 16,
+        "26": 16,
+        "28": 32
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p16-d12-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 16,
+      "n": 256,
+      "k": 64,
+      "d": 12,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 96,
+      "gram": "omega*z^7",
+      "gram_terms": [
+        [
+          7,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 27,
+      "max_basis_weight_z": 27,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "4776676606548f7ec2812f3af13729ce7db7061bd3085280c61bbc38832a6a9a",
+        "HZ": "223ec172b1e7b41df4787dc2f422cfea9f323e17df0dba3124bf92053c292f29",
+        "LX": "9e40de64839f44c8533ab2137671b7a3211d46bddd3b8b7f250934114aa05fdb",
+        "LZ": "3ebc13a76ab38010e30066ec07b1c516dd83a9ff1108fc88f34f6c2dcf9d127d"
+      },
+      "matrix_shapes": {
+        "HX": [
+          96,
+          256
+        ],
+        "HZ": [
+          96,
+          256
+        ],
+        "LX": [
+          64,
+          256
+        ],
+        "LZ": [
+          64,
+          256
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 48,
+        "9": 48
+      },
+      "check_column_weights_HX": {
+        "3": 208,
+        "4": 48
+      },
+      "check_row_weights_HZ": {
+        "8": 48,
+        "9": 48
+      },
+      "check_column_weights_HZ": {
+        "3": 208,
+        "4": 48
+      },
+      "basis_weights_LX": {
+        "21": 16,
+        "23": 16,
+        "26": 16,
+        "27": 16
+      },
+      "basis_weights_LZ": {
+        "21": 16,
+        "23": 16,
+        "26": 16,
+        "27": 16
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p18-d10-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 18,
+      "n": 288,
+      "k": 72,
+      "d": 10,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 108,
+      "gram": "omega^2*z^15",
+      "gram_terms": [
+        [
+          15,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 22,
+      "max_basis_weight_z": 22,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "e67bbacdeda2f30bdc1447571932b33a96bd8a4e211308abbb5ca4a3244b9c9d",
+        "HZ": "ca7cf1e84295dc356d2e81f54da6c5757c033a90ca704ffd34cf97f64a758366",
+        "LX": "8c8cd1a004a98a9b45b6310fafdbed0f81e84efa2a7c81495f9dba11de92f6ae",
+        "LZ": "cdbc413d59a2aebea88ec4e9985b38b9715101c31be0023226c436da0be560fb"
+      },
+      "matrix_shapes": {
+        "HX": [
+          108,
+          288
+        ],
+        "HZ": [
+          108,
+          288
+        ],
+        "LX": [
+          72,
+          288
+        ],
+        "LZ": [
+          72,
+          288
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 54,
+        "9": 54
+      },
+      "check_column_weights_HX": {
+        "3": 234,
+        "4": 54
+      },
+      "check_row_weights_HZ": {
+        "8": 54,
+        "9": 54
+      },
+      "check_column_weights_HZ": {
+        "3": 234,
+        "4": 54
+      },
+      "basis_weights_LX": {
+        "20": 18,
+        "21": 18,
+        "22": 36
+      },
+      "basis_weights_LZ": {
+        "20": 18,
+        "21": 18,
+        "22": 36
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p18-d12-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 18,
+      "n": 288,
+      "k": 72,
+      "d": 12,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 108,
+      "gram": "omega^2*z^15",
+      "gram_terms": [
+        [
+          15,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 22,
+      "max_basis_weight_z": 22,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "f4cb959415f0fe3e215b8df8295a361edaa0b433f0bf91fad0557793c863537c",
+        "HZ": "37baa048fb8b633044a1d40fdef2c7c19ca364ef9fb2527e85f782da3d3068c1",
+        "LX": "b62f17b2d85c5e833c49e400cde03218afb296037c4f2dc0af1b4a00ba10513a",
+        "LZ": "cdbc413d59a2aebea88ec4e9985b38b9715101c31be0023226c436da0be560fb"
+      },
+      "matrix_shapes": {
+        "HX": [
+          108,
+          288
+        ],
+        "HZ": [
+          108,
+          288
+        ],
+        "LX": [
+          72,
+          288
+        ],
+        "LZ": [
+          72,
+          288
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 54,
+        "9": 54
+      },
+      "check_column_weights_HX": {
+        "3": 234,
+        "4": 54
+      },
+      "check_row_weights_HZ": {
+        "8": 54,
+        "9": 54
+      },
+      "check_column_weights_HZ": {
+        "3": 234,
+        "4": 54
+      },
+      "basis_weights_LX": {
+        "20": 18,
+        "21": 18,
+        "22": 36
+      },
+      "basis_weights_LZ": {
+        "20": 18,
+        "21": 18,
+        "22": 36
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p20-d11-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 20,
+      "n": 320,
+      "k": 80,
+      "d": 11,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 120,
+      "gram": "omega*z^12",
+      "gram_terms": [
+        [
+          12,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 26,
+      "max_basis_weight_z": 26,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "6e5f6aa847306b2f0f65de1581022a1dd4a2df30ccc3c6c222f56554c0af12b6",
+        "HZ": "7c448f27a997e0e894ea0db5669af40f119e9ddec6b1f2a834a23ca0d1b86ad6",
+        "LX": "dd060adc5438b012b26cc71888a333a465333cae13b9381cf12367ae9e30b1aa",
+        "LZ": "176ddbe5ce03265bc6491455564bb50f4b060d377ca6d83e855606b1ff7ef212"
+      },
+      "matrix_shapes": {
+        "HX": [
+          120,
+          320
+        ],
+        "HZ": [
+          120,
+          320
+        ],
+        "LX": [
+          80,
+          320
+        ],
+        "LZ": [
+          80,
+          320
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 60,
+        "9": 60
+      },
+      "check_column_weights_HX": {
+        "3": 260,
+        "4": 60
+      },
+      "check_row_weights_HZ": {
+        "8": 60,
+        "9": 60
+      },
+      "check_column_weights_HZ": {
+        "3": 260,
+        "4": 60
+      },
+      "basis_weights_LX": {
+        "21": 60,
+        "26": 20
+      },
+      "basis_weights_LZ": {
+        "21": 60,
+        "26": 20
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p20-d13-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 20,
+      "n": 320,
+      "k": 80,
+      "d": 13,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 120,
+      "gram": "unit (2 terms)",
+      "gram_terms": [
+        [
+          4,
+          1
+        ],
+        [
+          12,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 33,
+      "max_basis_weight_z": 33,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 4,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "b78c432b0dc700d958ed29e498494c4f21b6420baae1a5e493e582e82c6481c2",
+        "HZ": "e8e13cc623ebafed18f26cef1487935ed450e7b72eeeb32ca224cf8e6401ca56",
+        "LX": "6cdbb9a324bc80181f6446a6542a7eb566fe05875102356095238229fd1fe817",
+        "LZ": "2cd29afc79f4a7b76c7f3b7a329df98012a95edd5a1008b5e044d1f91b480438"
+      },
+      "matrix_shapes": {
+        "HX": [
+          120,
+          320
+        ],
+        "HZ": [
+          120,
+          320
+        ],
+        "LX": [
+          80,
+          320
+        ],
+        "LZ": [
+          80,
+          320
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 60,
+        "9": 60
+      },
+      "check_column_weights_HX": {
+        "3": 260,
+        "4": 60
+      },
+      "check_row_weights_HZ": {
+        "8": 60,
+        "9": 60
+      },
+      "check_column_weights_HZ": {
+        "3": 260,
+        "4": 60
+      },
+      "basis_weights_LX": {
+        "25": 20,
+        "29": 20,
+        "32": 20,
+        "33": 20
+      },
+      "basis_weights_LZ": {
+        "25": 20,
+        "29": 20,
+        "32": 20,
+        "33": 20
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p22-d11-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 22,
+      "n": 352,
+      "k": 88,
+      "d": 11,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 132,
+      "gram": "omega^2*z^1",
+      "gram_terms": [
+        [
+          1,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 24,
+      "max_basis_weight_z": 24,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "0c34c1d079395ea3944319c171f8e14edfd3c79e56b1fbc096fc568ed0c56008",
+        "HZ": "18112b750470e753c1a34f02eeea0d4fc2565e858180659d6aef12db9f77468a",
+        "LX": "296149d3d3a59f4294ddc82f5fdad71ab1324dbe9ebc335b9751c60a47dd0d11",
+        "LZ": "15d7023f007c6dc2238375f1f41fed9be6606b79929bdc9c9e93e5958b341eb6"
+      },
+      "matrix_shapes": {
+        "HX": [
+          132,
+          352
+        ],
+        "HZ": [
+          132,
+          352
+        ],
+        "LX": [
+          88,
+          352
+        ],
+        "LZ": [
+          88,
+          352
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HX": {
+        "3": 286,
+        "4": 66
+      },
+      "check_row_weights_HZ": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HZ": {
+        "3": 286,
+        "4": 66
+      },
+      "basis_weights_LX": {
+        "20": 22,
+        "21": 22,
+        "24": 44
+      },
+      "basis_weights_LZ": {
+        "20": 22,
+        "21": 22,
+        "24": 44
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p22-d13-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 22,
+      "n": 352,
+      "k": 88,
+      "d": 13,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 132,
+      "gram": "omega^2*z^18",
+      "gram_terms": [
+        [
+          18,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 24,
+      "max_basis_weight_z": 24,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "5c9c9f70341b0980eeaeb80a3cd6215443d5b4ff6c642c21446f0f7ef52d06dd",
+        "HZ": "09a35b6ac2490d841724372337afc380a9685228437d0a5985b9baf432b16a2f",
+        "LX": "cea2d6bf09c22f05b3282c57533748f391f9f51fd6b17f6d2fd216874a709f79",
+        "LZ": "b6b9be9b29921b8ca21ec8c6fca37fed362d20c77c0987ca7aa41ef5ba1ce71d"
+      },
+      "matrix_shapes": {
+        "HX": [
+          132,
+          352
+        ],
+        "HZ": [
+          132,
+          352
+        ],
+        "LX": [
+          88,
+          352
+        ],
+        "LZ": [
+          88,
+          352
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HX": {
+        "3": 286,
+        "4": 66
+      },
+      "check_row_weights_HZ": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HZ": {
+        "3": 286,
+        "4": 66
+      },
+      "basis_weights_LX": {
+        "20": 22,
+        "21": 22,
+        "24": 44
+      },
+      "basis_weights_LZ": {
+        "20": 22,
+        "21": 22,
+        "24": 44
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p22-d14-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 22,
+      "n": 352,
+      "k": 88,
+      "d": 14,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 132,
+      "gram": "omega^2*z^4",
+      "gram_terms": [
+        [
+          4,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 26,
+      "max_basis_weight_z": 26,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "51ccc6d4867122d2fe61f4603df95e84dae20bde0636e1f97f43790a4ba49871",
+        "HZ": "bd92aaa389daeb8f8676edf414c226750ccb273d5bdca00daa15756ecc570255",
+        "LX": "7c0aad24ec2e78c2f466ead65e794a6c438e2bd76c7732ed44003ad2d3e30ca0",
+        "LZ": "4eb00067169a708b378232ef676f05f4049a863bf261eedb0b118017a0c8d452"
+      },
+      "matrix_shapes": {
+        "HX": [
+          132,
+          352
+        ],
+        "HZ": [
+          132,
+          352
+        ],
+        "LX": [
+          88,
+          352
+        ],
+        "LZ": [
+          88,
+          352
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HX": {
+        "3": 286,
+        "4": 66
+      },
+      "check_row_weights_HZ": {
+        "8": 66,
+        "9": 66
+      },
+      "check_column_weights_HZ": {
+        "3": 286,
+        "4": 66
+      },
+      "basis_weights_LX": {
+        "20": 22,
+        "21": 22,
+        "24": 22,
+        "26": 22
+      },
+      "basis_weights_LZ": {
+        "20": 22,
+        "21": 22,
+        "24": 22,
+        "26": 22
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p26-d15-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 26,
+      "n": 416,
+      "k": 104,
+      "d": 15,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 156,
+      "gram": "omega^2*z^7",
+      "gram_terms": [
+        [
+          7,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 28,
+      "max_basis_weight_z": 28,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "54c4eae3929b6a2c16ba2776cfb34121b2276fd04478bfb2f4a2117b370860fb",
+        "HZ": "484c7901b33fcc4b076235c2b481923efbb47f31192ae9306ecac8ca444aeadf",
+        "LX": "391476168f80c73f3bbed46920a74dffe7492f798ad5b402c4b370a824b80584",
+        "LZ": "107c29d298773abe3dafa0a0b10aa3e4d9fec17ddecf650e321771d80d416fa2"
+      },
+      "matrix_shapes": {
+        "HX": [
+          156,
+          416
+        ],
+        "HZ": [
+          156,
+          416
+        ],
+        "LX": [
+          104,
+          416
+        ],
+        "LZ": [
+          104,
+          416
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 78,
+        "9": 78
+      },
+      "check_column_weights_HX": {
+        "3": 338,
+        "4": 78
+      },
+      "check_row_weights_HZ": {
+        "8": 78,
+        "9": 78
+      },
+      "check_column_weights_HZ": {
+        "3": 338,
+        "4": 78
+      },
+      "basis_weights_LX": {
+        "24": 52,
+        "28": 52
+      },
+      "basis_weights_LZ": {
+        "24": 52,
+        "28": 52
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p28-d15-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 28,
+      "n": 448,
+      "k": 112,
+      "d": 15,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 168,
+      "gram": "omega*z^13",
+      "gram_terms": [
+        [
+          13,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 27,
+      "max_basis_weight_z": 27,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "96e5a1e1d218c8d206007e5cbb84deb7bc3195f2bdee0a9b94f78533722e2e44",
+        "HZ": "30ef7083e9a4297a5508c12afc6ea36cab542d3766c3ca38d90434b4a6e81b9f",
+        "LX": "38362861d319b618e7118dc28a32b9cf2972568a6e67d933458deb40c37f7a07",
+        "LZ": "25c7a1e0be142cc32d9b6e6f34875c3c46a0edba716b14549d60565bec383327"
+      },
+      "matrix_shapes": {
+        "HX": [
+          168,
+          448
+        ],
+        "HZ": [
+          168,
+          448
+        ],
+        "LX": [
+          112,
+          448
+        ],
+        "LZ": [
+          112,
+          448
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 84,
+        "9": 84
+      },
+      "check_column_weights_HX": {
+        "3": 364,
+        "4": 84
+      },
+      "check_row_weights_HZ": {
+        "8": 84,
+        "9": 84
+      },
+      "check_column_weights_HZ": {
+        "3": 364,
+        "4": 84
+      },
+      "basis_weights_LX": {
+        "21": 28,
+        "23": 28,
+        "26": 28,
+        "27": 28
+      },
+      "basis_weights_LZ": {
+        "21": 28,
+        "23": 28,
+        "26": 28,
+        "27": 28
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p28-d16-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 28,
+      "n": 448,
+      "k": 112,
+      "d": 16,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 168,
+      "gram": "omega*z^13",
+      "gram_terms": [
+        [
+          13,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 27,
+      "max_basis_weight_z": 27,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "76c5a70c967a1e87f6c210e939524b7ff8c359ab429ecb6bfb6e5f56dc883e2f",
+        "HZ": "6996d7e92e453c670281492b75a330cf64d2d56705aaf3538af3949e44419ae3",
+        "LX": "49b95f1bb110ea3b4ce2f48f8ca62493ebe9da530d847a1428a8121385b91228",
+        "LZ": "2044ce04c88d4c6a80357d93d92fb450016f5bcd898514050f7f163fc30d20b8"
+      },
+      "matrix_shapes": {
+        "HX": [
+          168,
+          448
+        ],
+        "HZ": [
+          168,
+          448
+        ],
+        "LX": [
+          112,
+          448
+        ],
+        "LZ": [
+          112,
+          448
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 84,
+        "9": 84
+      },
+      "check_column_weights_HX": {
+        "3": 364,
+        "4": 84
+      },
+      "check_row_weights_HZ": {
+        "8": 84,
+        "9": 84
+      },
+      "check_column_weights_HZ": {
+        "3": 364,
+        "4": 84
+      },
+      "basis_weights_LX": {
+        "21": 28,
+        "23": 28,
+        "26": 28,
+        "27": 28
+      },
+      "basis_weights_LZ": {
+        "21": 28,
+        "23": 28,
+        "26": 28,
+        "27": 28
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p30-d14-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 30,
+      "n": 480,
+      "k": 120,
+      "d": 14,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 180,
+      "gram": "omega^2*z^1",
+      "gram_terms": [
+        [
+          1,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 24,
+      "max_basis_weight_z": 24,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "74c9d0d7e1b3bcf4107324048af0ce1320044a46b6bdcff8cad77aa4fc8c30fd",
+        "HZ": "e3bf0aa6dd073b53e950e31082eea1cf8f3717b4b4ecf3e0bbb193e00c7023fe",
+        "LX": "947ba0db8d34fc7b18cd644e5a04a427cc4d81fe0bebccd90eaea9f14afdcc78",
+        "LZ": "27b0cf0857e7ed35c54fcf315a7aa75231e3c102c7104c2c307a75dbb58d540a"
+      },
+      "matrix_shapes": {
+        "HX": [
+          180,
+          480
+        ],
+        "HZ": [
+          180,
+          480
+        ],
+        "LX": [
+          120,
+          480
+        ],
+        "LZ": [
+          120,
+          480
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 90,
+        "9": 90
+      },
+      "check_column_weights_HX": {
+        "3": 390,
+        "4": 90
+      },
+      "check_row_weights_HZ": {
+        "8": 90,
+        "9": 90
+      },
+      "check_column_weights_HZ": {
+        "3": 390,
+        "4": 90
+      },
+      "basis_weights_LX": {
+        "20": 30,
+        "21": 30,
+        "24": 60
+      },
+      "basis_weights_LZ": {
+        "20": 30,
+        "21": 30,
+        "24": 60
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p36-d17-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 36,
+      "n": 576,
+      "k": 144,
+      "d": 17,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 216,
+      "gram": "omega*z^8",
+      "gram_terms": [
+        [
+          8,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 32,
+      "max_basis_weight_z": 32,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 4,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "315b61a4b166f3e549fcd09b49086dcbb7805259578ff09f5e17a3497ff656e3",
+        "HZ": "7cee50962d3190ef28064e94f949ebfd317b90627526c92d4bf2f1d876227dc0",
+        "LX": "0ae8b82e525a35e98e8c17b3281ef6f0b7fa1c8e9c8d076b30171227e10a1b49",
+        "LZ": "812ee6715eea54467a739f05944bee4741a9dfc2ab50bb67605e730820f9c331"
+      },
+      "matrix_shapes": {
+        "HX": [
+          216,
+          576
+        ],
+        "HZ": [
+          216,
+          576
+        ],
+        "LX": [
+          144,
+          576
+        ],
+        "LZ": [
+          144,
+          576
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 108,
+        "9": 108
+      },
+      "check_column_weights_HX": {
+        "3": 468,
+        "4": 108
+      },
+      "check_row_weights_HZ": {
+        "8": 108,
+        "9": 108
+      },
+      "check_column_weights_HZ": {
+        "3": 468,
+        "4": 108
+      },
+      "basis_weights_LX": {
+        "25": 72,
+        "27": 36,
+        "32": 36
+      },
+      "basis_weights_LZ": {
+        "25": 72,
+        "27": 36,
+        "32": 36
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p40-d18-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 40,
+      "n": 640,
+      "k": 160,
+      "d": 18,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 240,
+      "gram": "unit (5 terms)",
+      "gram_terms": [
+        [
+          4,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          24,
+          2
+        ],
+        [
+          34,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 29,
+      "max_basis_weight_z": 29,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 6,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "544d844a6d1b795e881a06a29a52d3e196f0a2f82cbc11c857b23fc376b74824",
+        "HZ": "3ed08287ec5024c8c5f2d180a76ff4a6b17e44a3acee227a10f1657ffb10a2fd",
+        "LX": "14cc0a11b58a2d74e029da2d4f09c7fe3c35334b6f9f6353967690cd51a3aae2",
+        "LZ": "dec848e32a9e06117ba7ba875ccc113a2ce900a8d729eaa81e6c800bab155656"
+      },
+      "matrix_shapes": {
+        "HX": [
+          240,
+          640
+        ],
+        "HZ": [
+          240,
+          640
+        ],
+        "LX": [
+          160,
+          640
+        ],
+        "LZ": [
+          160,
+          640
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 120,
+        "9": 120
+      },
+      "check_column_weights_HX": {
+        "3": 520,
+        "4": 120
+      },
+      "check_row_weights_HZ": {
+        "8": 120,
+        "9": 120
+      },
+      "check_column_weights_HZ": {
+        "3": 520,
+        "4": 120
+      },
+      "basis_weights_LX": {
+        "22": 40,
+        "25": 40,
+        "26": 40,
+        "29": 40
+      },
+      "basis_weights_LZ": {
+        "22": 40,
+        "25": 40,
+        "26": 40,
+        "29": 40
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": false,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": false,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p40-d19-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 40,
+      "n": 640,
+      "k": 160,
+      "d": 19,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 240,
+      "gram": "omega^2*z^26",
+      "gram_terms": [
+        [
+          26,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 32,
+      "max_basis_weight_z": 32,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 6,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "4451f03c5501de8c235122008fd2e73ab4c42570e52d9efa291f9b21f27de398",
+        "HZ": "0165f37a398f7d8eda7eb7af74072c0119e74c4f7374d7fead12d64480e84381",
+        "LX": "0c6e5915ec078fc6e9a12edee3d9c408c8b14a0ae6e83a82ecef74fce165349a",
+        "LZ": "735c0eb51a0b45cd52c8289539a61bcb7e4339d3c9bb26f0b1e54ad96b45a6ca"
+      },
+      "matrix_shapes": {
+        "HX": [
+          240,
+          640
+        ],
+        "HZ": [
+          240,
+          640
+        ],
+        "LX": [
+          160,
+          640
+        ],
+        "LZ": [
+          160,
+          640
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 120,
+        "9": 120
+      },
+      "check_column_weights_HX": {
+        "3": 520,
+        "4": 120
+      },
+      "check_row_weights_HZ": {
+        "8": 120,
+        "9": 120
+      },
+      "check_column_weights_HZ": {
+        "3": 520,
+        "4": 120
+      },
+      "basis_weights_LX": {
+        "26": 40,
+        "29": 40,
+        "32": 80
+      },
+      "basis_weights_LZ": {
+        "26": 40,
+        "29": 40,
+        "32": 80
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p44-d20-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 44,
+      "n": 704,
+      "k": 176,
+      "d": 20,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 264,
+      "gram": "omega^2*z^30",
+      "gram_terms": [
+        [
+          30,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 32,
+      "max_basis_weight_z": 32,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 6,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "c420fcc360f76c3799b95ac614bb1f9d92e54a5769927c015719add62e624067",
+        "HZ": "b1691d56402b027b27b8635b0dd6892cb2160ec9ca18a6efb57da759f5866973",
+        "LX": "f13ea4931f254e93352416ab1481c64f807cb0425f3ab0d696f32258aa525389",
+        "LZ": "1942a9b0f6fb3b2003d735269e1f2109361fcdf45926348ad6211b0f62e555a9"
+      },
+      "matrix_shapes": {
+        "HX": [
+          264,
+          704
+        ],
+        "HZ": [
+          264,
+          704
+        ],
+        "LX": [
+          176,
+          704
+        ],
+        "LZ": [
+          176,
+          704
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 132,
+        "9": 132
+      },
+      "check_column_weights_HX": {
+        "3": 572,
+        "4": 132
+      },
+      "check_row_weights_HZ": {
+        "8": 132,
+        "9": 132
+      },
+      "check_column_weights_HZ": {
+        "3": 572,
+        "4": 132
+      },
+      "basis_weights_LX": {
+        "26": 44,
+        "29": 44,
+        "32": 88
+      },
+      "basis_weights_LZ": {
+        "26": 44,
+        "29": 44,
+        "32": 88
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p48-d18-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 48,
+      "n": 768,
+      "k": 192,
+      "d": 18,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 288,
+      "gram": "omega^2*z^45",
+      "gram_terms": [
+        [
+          45,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 28,
+      "max_basis_weight_z": 28,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 2,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "b0ea9f20705b507c3b5eadb2ac1632822a471c3895e3b6a17cc0a9b5ff4e5695",
+        "HZ": "2de24e9668cda03b93b694ffb846921d7a9a5106785c4d0439bed7cc85992706",
+        "LX": "2ad69d234745e09c1cf94eea9055ec81f814b2978fe5671750a68c72e12d8809",
+        "LZ": "aeef0fd868c79abfcbc1920a2b3c43cac2e97d1ba38987dda880c93b819b29be"
+      },
+      "matrix_shapes": {
+        "HX": [
+          288,
+          768
+        ],
+        "HZ": [
+          288,
+          768
+        ],
+        "LX": [
+          192,
+          768
+        ],
+        "LZ": [
+          192,
+          768
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 144,
+        "9": 144
+      },
+      "check_column_weights_HX": {
+        "3": 624,
+        "4": 144
+      },
+      "check_row_weights_HZ": {
+        "8": 144,
+        "9": 144
+      },
+      "check_column_weights_HZ": {
+        "3": 624,
+        "4": 144
+      },
+      "basis_weights_LX": {
+        "24": 48,
+        "26": 48,
+        "28": 96
+      },
+      "basis_weights_LZ": {
+        "24": 48,
+        "26": 48,
+        "28": 96
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p48-d19-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 48,
+      "n": 768,
+      "k": 192,
+      "d": 19,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 288,
+      "gram": "omega*z^35",
+      "gram_terms": [
+        [
+          35,
+          2
+        ]
+      ],
+      "max_basis_weight_x": 33,
+      "max_basis_weight_z": 33,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 4,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "326d237fe8012676eabc16214b78c061e675bc019ab1c253033b00fa749e8e59",
+        "HZ": "670c3e1f98b2802020653612df16c7243c78ec8d434cef99906b78c4e4330046",
+        "LX": "5309d362d722c2616c645d191f1bce87bb4f819a5665c1c11d98ae5719dc46ad",
+        "LZ": "9942cf9a44eadb8d9a6c75bb4f016f5a247eed2f97de85f22ac6c0565e93077f"
+      },
+      "matrix_shapes": {
+        "HX": [
+          288,
+          768
+        ],
+        "HZ": [
+          288,
+          768
+        ],
+        "LX": [
+          192,
+          768
+        ],
+        "LZ": [
+          192,
+          768
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 144,
+        "9": 144
+      },
+      "check_column_weights_HX": {
+        "3": 624,
+        "4": 144
+      },
+      "check_row_weights_HZ": {
+        "8": 144,
+        "9": 144
+      },
+      "check_column_weights_HZ": {
+        "3": 624,
+        "4": 144
+      },
+      "basis_weights_LX": {
+        "25": 48,
+        "27": 48,
+        "32": 48,
+        "33": 48
+      },
+      "basis_weights_LZ": {
+        "25": 48,
+        "27": 48,
+        "32": 48,
+        "33": 48
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    },
+    {
+      "id": "q4-j3-l8-p64-d20-w9-girth6",
+      "family": "quaternary-single-CPM-PP",
+      "J": 3,
+      "L": 8,
+      "P": 64,
+      "n": 1024,
+      "k": 256,
+      "d": 20,
+      "girth_symbol": 6,
+      "girth_binary": 6,
+      "column_weight": "3,4",
+      "max_check_row_weight": 9,
+      "check_rank_each": 384,
+      "gram": "omega^2*z^58",
+      "gram_terms": [
+        [
+          58,
+          3
+        ]
+      ],
+      "max_basis_weight_x": 32,
+      "max_basis_weight_z": 32,
+      "distance_status": "exact",
+      "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+      "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+      "max_overlap_same": 1,
+      "max_overlap_different": 6,
+      "matrix_file": "matrices.npz",
+      "matrix_sha256": {
+        "HX": "2efb3c29e05748d3ca017e0ac4abb2aedec3e903968650fe4726b1e063ed72c2",
+        "HZ": "3a3d6b68a49266c6f511592c6c693dbe8a7e72710039f4614b70a6c0a692f03b",
+        "LX": "f6777b5b90d27b67aeae97c2aae1f0a846137ea13f245ed919fa6a8b0f862c48",
+        "LZ": "5d14bbd4dfd97bf70f220465c9dfc0296d60b2082c27466b3c4171dc23c34964"
+      },
+      "matrix_shapes": {
+        "HX": [
+          384,
+          1024
+        ],
+        "HZ": [
+          384,
+          1024
+        ],
+        "LX": [
+          256,
+          1024
+        ],
+        "LZ": [
+          256,
+          1024
+        ]
+      },
+      "check_row_weights_HX": {
+        "8": 192,
+        "9": 192
+      },
+      "check_column_weights_HX": {
+        "3": 832,
+        "4": 192
+      },
+      "check_row_weights_HZ": {
+        "8": 192,
+        "9": 192
+      },
+      "check_column_weights_HZ": {
+        "3": 832,
+        "4": 192
+      },
+      "basis_weights_LX": {
+        "26": 64,
+        "29": 64,
+        "32": 128
+      },
+      "basis_weights_LZ": {
+        "26": 64,
+        "29": 64,
+        "32": 128
+      },
+      "replay_input_audit": {
+        "X": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        },
+        "Z": {
+          "archived_detector_matches_current_basis": true,
+          "original_detector_completeness_checked": true,
+          "replay_detector": "reconstructed from supplied complete opposite basis"
+        }
+      },
+      "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+    }
+  ],
+  "code_count": 22,
+  "independent_reexecuted_roots": 704,
+  "all_distances_independently_reexecuted": true
+}

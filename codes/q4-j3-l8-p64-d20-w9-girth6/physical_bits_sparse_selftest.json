@@ -1,0 +1,487 @@
+{
+  "exhaustive_words_per_case": 65536,
+  "scope": "Full binary space",
+  "cases": [
+    {
+      "case": 0,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 1,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 2,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 3,
+      "stabilizer_dimension": 0,
+      "distance": 7,
+      "passed": true
+    },
+    {
+      "case": 4,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 5,
+      "stabilizer_dimension": 2,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 6,
+      "stabilizer_dimension": 0,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 7,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 8,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 9,
+      "stabilizer_dimension": 0,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 10,
+      "stabilizer_dimension": 1,
+      "distance": 3,
+      "passed": true
+    },
+    {
+      "case": 11,
+      "stabilizer_dimension": 1,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 12,
+      "stabilizer_dimension": 0,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 13,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 14,
+      "stabilizer_dimension": 1,
+      "distance": 10,
+      "passed": true
+    },
+    {
+      "case": 15,
+      "stabilizer_dimension": 0,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 16,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 17,
+      "stabilizer_dimension": 1,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 18,
+      "stabilizer_dimension": 0,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 19,
+      "stabilizer_dimension": 1,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 20,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 21,
+      "stabilizer_dimension": 0,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 22,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 23,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 24,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 25,
+      "stabilizer_dimension": 1,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 26,
+      "stabilizer_dimension": 1,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 27,
+      "stabilizer_dimension": 0,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 28,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 29,
+      "stabilizer_dimension": 1,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 30,
+      "stabilizer_dimension": 0,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 31,
+      "stabilizer_dimension": 1,
+      "distance": 10,
+      "passed": true
+    },
+    {
+      "case": 32,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 33,
+      "stabilizer_dimension": 0,
+      "distance": 7,
+      "passed": true
+    },
+    {
+      "case": 34,
+      "stabilizer_dimension": 1,
+      "distance": 10,
+      "passed": true
+    },
+    {
+      "case": 35,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 36,
+      "stabilizer_dimension": 0,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 37,
+      "stabilizer_dimension": 1,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 38,
+      "stabilizer_dimension": 2,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 39,
+      "stabilizer_dimension": 0,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 40,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 41,
+      "stabilizer_dimension": 2,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 42,
+      "stabilizer_dimension": 0,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 43,
+      "stabilizer_dimension": 1,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 44,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 45,
+      "stabilizer_dimension": 0,
+      "distance": 3,
+      "passed": true
+    },
+    {
+      "case": 46,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 47,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 48,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 49,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 50,
+      "stabilizer_dimension": 2,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 51,
+      "stabilizer_dimension": 0,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 52,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 53,
+      "stabilizer_dimension": 1,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 54,
+      "stabilizer_dimension": 0,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 55,
+      "stabilizer_dimension": 1,
+      "distance": 10,
+      "passed": true
+    },
+    {
+      "case": 56,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 57,
+      "stabilizer_dimension": 0,
+      "distance": 5,
+      "passed": true
+    },
+    {
+      "case": 58,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 59,
+      "stabilizer_dimension": 1,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 60,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 61,
+      "stabilizer_dimension": 1,
+      "distance": 8,
+      "passed": true
+    },
+    {
+      "case": 62,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 63,
+      "stabilizer_dimension": 0,
+      "distance": 10,
+      "passed": true
+    },
+    {
+      "case": 64,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 65,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 66,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 67,
+      "stabilizer_dimension": 1,
+      "distance": 3,
+      "passed": true
+    },
+    {
+      "case": 68,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 69,
+      "stabilizer_dimension": 0,
+      "distance": 3,
+      "passed": true
+    },
+    {
+      "case": 70,
+      "stabilizer_dimension": 1,
+      "distance": 3,
+      "passed": true
+    },
+    {
+      "case": 71,
+      "stabilizer_dimension": 1,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 72,
+      "stabilizer_dimension": 0,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 73,
+      "stabilizer_dimension": 1,
+      "distance": 4,
+      "passed": true
+    },
+    {
+      "case": 74,
+      "stabilizer_dimension": 1,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 75,
+      "stabilizer_dimension": 0,
+      "distance": 9,
+      "passed": true
+    },
+    {
+      "case": 76,
+      "stabilizer_dimension": 1,
+      "distance": 2,
+      "passed": true
+    },
+    {
+      "case": 77,
+      "stabilizer_dimension": 1,
+      "distance": 7,
+      "passed": true
+    },
+    {
+      "case": 78,
+      "stabilizer_dimension": 0,
+      "distance": 6,
+      "passed": true
+    },
+    {
+      "case": 79,
+      "stabilizer_dimension": 1,
+      "distance": 9,
+      "passed": true
+    }
+  ],
+  "all_passed": true
+}

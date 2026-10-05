@@ -1,0 +1,15 @@
+{
+  "candidate_id": 1202,
+  "branch_id": 158,
+  "matching_id": 1,
+  "export_script_sha256": "85fa8800ea3235fea2431cbd8704a0eb29a6c64f4ea052e1e335e972c4d03901",
+  "solver_source_sha256": "73380d872bb1a25f667f879b4a056cfb68b0758f771905b4a6074adda7d3439c",
+  "solver_binary_sha256": "9ab914f40b9233796f9616917022e85e4c9c135d160e944dbe63836393ba02da",
+  "note": "Completed exhaustive bounded-search logs with exact inputs; independent 16-bit self-tests, not formal proof-assistant certificates.",
+  "partitioned_solver_source_sha256": "23c96ad5c51eb1c77741ebb8fde7647f62c9ad70cd8a948512566b7d6f1d6982",
+  "partitioned_solver_binary_sha256": "0b09ff4d35e209de7c720f6aae803b1e2c5f0d895542684842fd2970b4862e3f",
+  "partition_selftest_sha256": "724c9b6fece3f288d53bd349ed2347e20c4b564f3312d7c27e18ca3d0dffa877",
+  "original_solver_source_sha256": "77f621a9f7e0b772b68d273780d5a0f58d93aa60151d15420f4ef790af739e05",
+  "original_solver_binary_sha256": "8922baf9d79069e5b751162a961e78f5142818d7c1329740a09233350b45d60a",
+  "portable_copy_of_matrix_manifest_sha256": "c4f798931d3c46cb36f4f38cd0447577c9875b1b036e9e18a2abf2654815a04b"
+}

@@ -1,0 +1,36 @@
+{
+  "host": "lab-mini",
+  "task": {
+    "id": "q4-j3-l8-p30-d14-w9-girth6_Z_r04",
+    "code_id": "q4-j3-l8-p30-d14-w9-girth6",
+    "side": "Z",
+    "root": 4,
+    "limit": 13,
+    "estimated_nodes": 3010565.3125,
+    "input_sha256": "f025bc15560707b848e71f57d8d0043afbfef7ca7d2365ebbce91c54fdeadaa6",
+    "stabilizer_sha256": "75b9cc70671dd343d9deaac39f3a48c27a3f150de228725d6e5fc47bc7ca1356"
+  },
+  "source_sha256": "996aba79a098b3ccf31a7ed60fb9a3a51ce80ff39794f5d22a44ca24ecd8cbb8",
+  "started_at": 1791202931.068643,
+  "finished_at": 1791202931.089411,
+  "passed": true,
+  "returncode": 0,
+  "result": {
+    "engine": "physical_binary_bit_branching_v1",
+    "bound": 13,
+    "complete_exclusion": true,
+    "found": false,
+    "timed_out": false,
+    "completed_roots": 1,
+    "total_roots": 1,
+    "root_first": 4,
+    "root_last": 5,
+    "full_total_roots": 16,
+    "root_scope": "two physical-bit roots per base column; checked QC shift invariance required",
+    "nodes": 38405,
+    "closed_stabilizer_partials": 0,
+    "elapsed_seconds": 0.0108895,
+    "witness": []
+  },
+  "stderr": ""
+}

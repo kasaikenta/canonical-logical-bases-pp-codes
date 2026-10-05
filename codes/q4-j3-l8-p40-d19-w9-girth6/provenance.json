@@ -1,0 +1,16 @@
+{
+  "candidate_id": 21000549,
+  "branch_id": 43,
+  "matching_id": 43,
+  "export_script_sha256": "abe0e7930c892cccc9dceb9dbf52895b04cedbfc0157722fbfcd874ec1e70679",
+  "note": "Completed exhaustive bounded-search logs with exact inputs; independent 16-bit self-tests, not formal proof-assistant certificates.",
+  "physical_solver_source_sha256": "996aba79a098b3ccf31a7ed60fb9a3a51ce80ff39794f5d22a44ca24ecd8cbb8",
+  "physical_solver_binary_sha256": "e2e598c98e86c738e1659355593edc227bf5c4130b7741601b25f0246bd9a0bc",
+  "physical_root_count": 16,
+  "physical_independent_selftests": {
+    "physical_bits_selftest.json": "7ea85755e9e8fadc9cfd95a0ffc23f395e00e5880abc91ca4508ecc2b4a93710",
+    "physical_bits_sparse_selftest.json": "fe575114f9e3f0133842b1588a31cae655c60ffbf591eb6231f9cd6e10786074",
+    "physical_bits_QC_selftest.json": "14f3131d7aae52ae817af15077fc4dc3f5e235666113931f501deccf5046b571"
+  },
+  "portable_copy_of_matrix_manifest_sha256": "74f5d408c4a4626c2ced7da6c85681c03ef5c98e22a7830a7dc61108e23f1ff2"
+}

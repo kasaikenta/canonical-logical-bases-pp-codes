@@ -1,0 +1,49 @@
+{
+  "code_id": "q4-j3-l8-p13-d10-w9-girth6",
+  "n": 208,
+  "k": 52,
+  "exact_quantum_distance": 10,
+  "all32_binary_roots_completed": true,
+  "source_sha256": "996aba79a098b3ccf31a7ed60fb9a3a51ce80ff39794f5d22a44ca24ecd8cbb8",
+  "matrix_sha256": {
+    "HX": "4795580ea4a4a79ec7ccd3f5354ed313de61a29f59d3c5c2c30aa90659a0f038",
+    "HZ": "1a80107002fd4456b4f1e579c486f4127949f6464d5c02e86d9e7e42fe357b17",
+    "LX": "74248b353a824771958e9ce868e0844cde5eed9f3c43223be277015e9d76cff9",
+    "LZ": "497d88c2a95b6decc7e12e802f16f3e8bd520880d951bf619965ef9b9dcf7022"
+  },
+  "sides": {
+    "X": {
+      "limit": 9,
+      "lower_bound": 10,
+      "completed_roots": 16,
+      "nodes": 79264,
+      "elapsed_cpu_seconds": 0.013212247,
+      "input_sha256": "1ed66f32612df2ccbd10e78bc4bdd42583c985c24d9d0ebc6f4b9ba79d591471",
+      "stabilizer_sha256": "9e23d092dbf827c2b08c84d929c1b452d7b3b5ce49e90be74a7663499327598c"
+    },
+    "Z": {
+      "limit": 9,
+      "lower_bound": 10,
+      "completed_roots": 16,
+      "nodes": 54622,
+      "elapsed_cpu_seconds": 0.008789755,
+      "input_sha256": "fb15d22e936283aac2c9a3ae7e1b4c9cc6bfeb091acb2fde8b3c5439d40051f1",
+      "stabilizer_sha256": "d40affbba83b56259b0816075a5d7019dd19eba2d817fb8029ba0c7e6dd5a439"
+    }
+  },
+  "upper_bound": 10,
+  "upper_witness_files": [
+    "../X_upper_word.json",
+    "../Z_upper_word.json"
+  ],
+  "upper_words_independently_verified": true,
+  "cyclic_automorphism_of_both_check_spaces_independently_verified": true,
+  "input_reconstructed_from_current_complete_opposite_basis": true,
+  "hosts": [
+    "home-mini",
+    "home-pro",
+    "lab-mini"
+  ],
+  "no_duplicate_root_jobs": true,
+  "source_file": "scripts/physical_binary_distance.cpp"
+}

@@ -1,0 +1,13 @@
+{
+  "candidate_id": 6000275,
+  "branch_id": 15,
+  "matching_id": 15,
+  "export_script_sha256": "e04f35c16fd30f432dea7bdffa01ec219de180dd1fa38bbed25f896ab7cfb866",
+  "solver_source_sha256": "73380d872bb1a25f667f879b4a056cfb68b0758f771905b4a6074adda7d3439c",
+  "solver_binary_sha256": "9ab914f40b9233796f9616917022e85e4c9c135d160e944dbe63836393ba02da",
+  "note": "Completed exhaustive bounded-search logs with exact inputs; independent 16-bit self-tests, not formal proof-assistant certificates.",
+  "partitioned_solver_source_sha256": "23c96ad5c51eb1c77741ebb8fde7647f62c9ad70cd8a948512566b7d6f1d6982",
+  "partitioned_solver_binary_sha256": "0b09ff4d35e209de7c720f6aae803b1e2c5f0d895542684842fd2970b4862e3f",
+  "partition_selftest_sha256": "724c9b6fece3f288d53bd349ed2347e20c4b564f3312d7c27e18ca3d0dffa877",
+  "portable_copy_of_matrix_manifest_sha256": "be359f8f11017428a816b21ee930279ed3c3f7cda1765f9a6e92c48b79766595"
+}

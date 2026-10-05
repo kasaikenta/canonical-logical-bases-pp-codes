@@ -111,3 +111,7 @@ weight-d witness are recorded in each `distance/` directory.
 The [P=64 code](codes/q4-j3-l8-p64-d20-w10-overlap10/README.md) has exact distance 20, maximum binary check weight 10, maximum canonical basis weights 25/25, and integer overlap identity I_256. Symbol girths are 6/6 and binary girths 4/4. The archived cofactor construction reproduces every saved matrix, and the distance records cover all 48 cyclic-symmetry roots through weight 19 and a verified weight-20 X logical operator.
 
 A further P128 instance has a exact distance 20, maximum basis weights 27/27, and integer overlap I512. Its complete matrices, recipe, upper witness and staged lower-bound records are in [`the exact-distance instance`](codes/q4-j3-l8-p128-d20-w10-overlap10/README.md).
+
+## Additional binary-girth-6 constructions
+
+[22 additional fixed GF(4) CPM--PP constructions](docs/girth6-codes.md) have symbol and binary girths 6/6, maximum binary check weight 9, and complete canonical bases of maximum weights 22--35. They include [[1024,256,20]] with maximum basis weights 32/32 and maximum integer support intersections 1/6. All exact distances were independently reexecuted on three Macs: 704 disjoint physical-bit roots, with no errors or unfinished roots. Original records, rebuilt inputs, final matrices, and separate replay certificates are included.

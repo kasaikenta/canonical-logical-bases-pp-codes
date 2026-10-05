@@ -1,0 +1,19 @@
+{
+  "CSS": true,
+  "rank": true,
+  "binary_image": true,
+  "complete_conjugate_basis": true,
+  "basis_kernels": true,
+  "matrix_readback": true,
+  "symbol_girth": [
+    6,
+    6
+  ],
+  "binary_girth": [
+    6,
+    6
+  ],
+  "exact_quantum_distance": 20,
+  "upper_words_independently_verified": true,
+  "saved_inputs_match_completed_search": true
+}

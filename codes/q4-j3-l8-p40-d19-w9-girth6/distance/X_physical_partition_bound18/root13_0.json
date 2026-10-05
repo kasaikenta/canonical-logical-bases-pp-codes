@@ -1,0 +1,19 @@
+{
+  "engine": "physical_binary_bit_branching_v1",
+  "bound": 18,
+  "complete_exclusion": true,
+  "found": false,
+  "timed_out": false,
+  "completed_roots": 1,
+  "total_roots": 1,
+  "root_first": 13,
+  "root_last": 14,
+  "full_total_roots": 16,
+  "root_scope": "two physical-bit roots per base column; checked QC shift invariance required",
+  "nodes": 14,
+  "closed_stabilizer_partials": 0,
+  "elapsed_seconds": 5.791e-06,
+  "witness": [],
+  "solver_source": "quotient_search_physical_bits.cpp",
+  "solver_source_sha256": "996aba79a098b3ccf31a7ed60fb9a3a51ce80ff39794f5d22a44ca24ecd8cbb8"
+}

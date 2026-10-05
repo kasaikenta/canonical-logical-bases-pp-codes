@@ -1,0 +1,95 @@
+{
+  "id": "q4-j3-l8-p22-d14-w9-girth6",
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 8,
+  "P": 22,
+  "n": 352,
+  "k": 88,
+  "d": 14,
+  "girth_symbol": 6,
+  "girth_binary": 6,
+  "column_weight": "3,4",
+  "max_check_row_weight": 9,
+  "check_rank_each": 132,
+  "gram": "omega^2*z^4",
+  "gram_terms": [
+    [
+      4,
+      3
+    ]
+  ],
+  "max_basis_weight_x": 26,
+  "max_basis_weight_z": 26,
+  "distance_status": "exact",
+  "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+  "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+  "max_overlap_same": 1,
+  "max_overlap_different": 2,
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "51ccc6d4867122d2fe61f4603df95e84dae20bde0636e1f97f43790a4ba49871",
+    "HZ": "bd92aaa389daeb8f8676edf414c226750ccb273d5bdca00daa15756ecc570255",
+    "LX": "7c0aad24ec2e78c2f466ead65e794a6c438e2bd76c7732ed44003ad2d3e30ca0",
+    "LZ": "4eb00067169a708b378232ef676f05f4049a863bf261eedb0b118017a0c8d452"
+  },
+  "matrix_shapes": {
+    "HX": [
+      132,
+      352
+    ],
+    "HZ": [
+      132,
+      352
+    ],
+    "LX": [
+      88,
+      352
+    ],
+    "LZ": [
+      88,
+      352
+    ]
+  },
+  "check_row_weights_HX": {
+    "8": 66,
+    "9": 66
+  },
+  "check_column_weights_HX": {
+    "3": 286,
+    "4": 66
+  },
+  "check_row_weights_HZ": {
+    "8": 66,
+    "9": 66
+  },
+  "check_column_weights_HZ": {
+    "3": 286,
+    "4": 66
+  },
+  "basis_weights_LX": {
+    "20": 22,
+    "21": 22,
+    "24": 22,
+    "26": 22
+  },
+  "basis_weights_LZ": {
+    "20": 22,
+    "21": 22,
+    "24": 22,
+    "26": 22
+  },
+  "replay_input_audit": {
+    "X": {
+      "archived_detector_matches_current_basis": true,
+      "original_detector_completeness_checked": true,
+      "replay_detector": "reconstructed from supplied complete opposite basis"
+    },
+    "Z": {
+      "archived_detector_matches_current_basis": true,
+      "original_detector_completeness_checked": true,
+      "replay_detector": "reconstructed from supplied complete opposite basis"
+    }
+  },
+  "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+}

@@ -1,0 +1,49 @@
+{
+  "code_id": "q4-j3-l8-p18-d12-w9-girth6",
+  "n": 288,
+  "k": 72,
+  "exact_quantum_distance": 12,
+  "all32_binary_roots_completed": true,
+  "source_sha256": "996aba79a098b3ccf31a7ed60fb9a3a51ce80ff39794f5d22a44ca24ecd8cbb8",
+  "matrix_sha256": {
+    "HX": "f4cb959415f0fe3e215b8df8295a361edaa0b433f0bf91fad0557793c863537c",
+    "HZ": "37baa048fb8b633044a1d40fdef2c7c19ca364ef9fb2527e85f782da3d3068c1",
+    "LX": "b62f17b2d85c5e833c49e400cde03218afb296037c4f2dc0af1b4a00ba10513a",
+    "LZ": "cdbc413d59a2aebea88ec4e9985b38b9715101c31be0023226c436da0be560fb"
+  },
+  "sides": {
+    "X": {
+      "limit": 11,
+      "lower_bound": 12,
+      "completed_roots": 16,
+      "nodes": 634997,
+      "elapsed_cpu_seconds": 0.10377233699999999,
+      "input_sha256": "3445efc9fe7226dba9036dcf66977e1138184a29efb93a4f3bffb11e9ba19a86",
+      "stabilizer_sha256": "899a936022d371092626cf10a05dc32401dcb20ab156b5cb850c4641851bf76c"
+    },
+    "Z": {
+      "limit": 11,
+      "lower_bound": 12,
+      "completed_roots": 16,
+      "nodes": 527166,
+      "elapsed_cpu_seconds": 0.096215813,
+      "input_sha256": "01e386737a0a025f9fd6faf505f8f90bf7205ee4c4592d38ea9ef422a4a6d5d3",
+      "stabilizer_sha256": "00e8d8ae8cd7c25c9e77e99e2d8b3525c5bcd90df5f171a3c9cc092fe37f0e59"
+    }
+  },
+  "upper_bound": 12,
+  "upper_witness_files": [
+    "../X_upper_word.json",
+    "../Z_upper_word.json"
+  ],
+  "upper_words_independently_verified": true,
+  "cyclic_automorphism_of_both_check_spaces_independently_verified": true,
+  "input_reconstructed_from_current_complete_opposite_basis": true,
+  "hosts": [
+    "home-mini",
+    "home-pro",
+    "lab-mini"
+  ],
+  "no_duplicate_root_jobs": true,
+  "source_file": "scripts/physical_binary_distance.cpp"
+}

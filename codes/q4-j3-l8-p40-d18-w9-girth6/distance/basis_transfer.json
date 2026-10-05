@@ -1,0 +1,10 @@
+{
+  "unchanged_check_matrices": true,
+  "old_and_new_bases_complete": true,
+  "kernel_spans_identical": true,
+  "kernel_dimensions": [
+    400,
+    400
+  ],
+  "scope": "Distance exclusions use the original complete detector basis. The adopted lighter basis spans the identical kernel modulo the same stabilizer space."
+}

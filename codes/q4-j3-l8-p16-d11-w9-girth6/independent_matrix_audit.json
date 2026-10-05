@@ -1,0 +1,43 @@
+{
+  "n": 256,
+  "k": 64,
+  "d_saved_exact": 11,
+  "J": 3,
+  "L": 8,
+  "P": 16,
+  "max_check_weight_X": 9,
+  "max_check_weight_Z": 9,
+  "max_basis_weight_X": 28,
+  "max_basis_weight_Z": 28,
+  "max_overlap_same_index": 3,
+  "max_overlap_different_index": 4,
+  "symbol_girth_X_Z": [
+    6,
+    6
+  ],
+  "binary_girth_X_Z": [
+    6,
+    6
+  ],
+  "binary_CSS_kernels_complete_canonical_independently_verified": true,
+  "actual_binary_ranks": [
+    96,
+    96,
+    64,
+    64
+  ],
+  "distance_evidence": {
+    "X": {
+      "saved_exclusion_bound": 10,
+      "completed_roots": 24,
+      "verified_upper_word_weight": 11
+    },
+    "Z": {
+      "saved_exclusion_bound": 10,
+      "completed_roots": 24,
+      "verified_upper_word_weight": 22
+    }
+  },
+  "distance_exhaustive_search_rerun": false,
+  "archive_folder": "[[256,64,11]]"
+}

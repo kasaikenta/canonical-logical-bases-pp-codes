@@ -1,0 +1,26 @@
+{
+  "binary_weight": 19,
+  "binary_support": [
+    6,
+    7,
+    8,
+    9,
+    12,
+    28,
+    31,
+    52,
+    53,
+    57,
+    74,
+    75,
+    94,
+    98,
+    119,
+    141,
+    142,
+    161,
+    163
+  ],
+  "kernel_verified": true,
+  "nonstabilizer_verified": true
+}

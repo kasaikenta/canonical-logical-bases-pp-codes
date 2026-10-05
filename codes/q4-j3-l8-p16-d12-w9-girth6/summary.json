@@ -1,0 +1,154 @@
+{
+  "family": "GF4_PP_exact_modular_binomial_branches",
+  "field": "GF(4)",
+  "n": 256,
+  "k": 64,
+  "d": 12,
+  "distance_exact": true,
+  "N": 16,
+  "physical_field_expansion": 2,
+  "check_rank": [
+    96,
+    96
+  ],
+  "graphs": {
+    "x": {
+      "symbol": {
+        "row_weight_histogram": {
+          "8": 48
+        },
+        "column_weight_histogram": {
+          "3": 128
+        },
+        "C4_count": 0,
+        "girth": 6,
+        "shortest_cycle": {
+          "checks": [
+            0,
+            16,
+            36
+          ],
+          "variables": [
+            0,
+            47,
+            16
+          ]
+        }
+      },
+      "binary": {
+        "row_weight_histogram": {
+          "8": 48,
+          "9": 48
+        },
+        "column_weight_histogram": {
+          "3": 208,
+          "4": 48
+        },
+        "C4_count": 0,
+        "girth": 6,
+        "shortest_cycle": {
+          "checks": [
+            0,
+            1,
+            57
+          ],
+          "variables": [
+            1,
+            33,
+            32
+          ]
+        }
+      }
+    },
+    "z": {
+      "symbol": {
+        "row_weight_histogram": {
+          "8": 48
+        },
+        "column_weight_histogram": {
+          "3": 128
+        },
+        "C4_count": 0,
+        "girth": 6,
+        "shortest_cycle": {
+          "checks": [
+            0,
+            16,
+            34
+          ],
+          "variables": [
+            0,
+            24,
+            98
+          ]
+        }
+      },
+      "binary": {
+        "row_weight_histogram": {
+          "8": 48,
+          "9": 48
+        },
+        "column_weight_histogram": {
+          "3": 208,
+          "4": 48
+        },
+        "C4_count": 0,
+        "girth": 6,
+        "shortest_cycle": {
+          "checks": [
+            0,
+            1,
+            57
+          ],
+          "variables": [
+            129,
+            185,
+            184
+          ]
+        }
+      }
+    }
+  },
+  "canonical_binary_weight_histograms": {
+    "x": {
+      "21": 16,
+      "23": 16,
+      "26": 16,
+      "27": 16
+    },
+    "z": {
+      "21": 16,
+      "23": 16,
+      "26": 16,
+      "27": 16
+    }
+  },
+  "canonical_symbol_weight_histograms": {
+    "x": {
+      "17": 16,
+      "20": 16
+    },
+    "z": {
+      "17": 16,
+      "20": 16
+    }
+  },
+  "canonical_Wmax": 27,
+  "distance": {
+    "X": {
+      "lower_bound": 12,
+      "upper_bound": 12,
+      "exact": true,
+      "exclusion_file": "distance/X_exclusion.json",
+      "upper_file": "distance/X_upper_word.json"
+    },
+    "Z": {
+      "lower_bound": 12,
+      "upper_bound": 21,
+      "exact": false,
+      "exclusion_file": "distance/Z_exclusion.json",
+      "upper_file": "distance/Z_upper_word.json"
+    }
+  },
+  "scope": "Exact binary quantum distance; individual X/Z intervals are stated separately. Symbol (3,8). No decoder or fault-tolerance claim."
+}

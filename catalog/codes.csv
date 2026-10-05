@@ -1,54 +1,76 @@
-id,family,J,L,P,n,k,d,girth_symbol,girth_binary,column_weight,max_check_row_weight,check_rank_each,gram,max_basis_weight_x,max_basis_weight_z,distance_status,construction_status
-q4-j3-l8-p20-d10-w9,quaternary-single-CPM-PP,3,8,20,320,80,10,6,6,"3,4",9,120,omega*z^4,26,26,exact,structured recipe and final matrices
-q4-j3-l8-p20-d13-w10,quaternary-single-CPM-PP,3,8,20,320,80,13,6,4,"3,4",10,120,z^6,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p20-d14-w10,quaternary-single-CPM-PP,3,8,20,320,80,14,6,4,"3,4",10,120,z^8,25,25,exact,structured recipe and final matrices
-q4-j3-l8-p22-d15-w10,quaternary-single-CPM-PP,3,8,22,352,88,15,6,4,"3,4",10,132,z^17,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p22-d16-w10,quaternary-single-CPM-PP,3,8,22,352,88,16,6,4,"3,4",10,132,z^16,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p24-d12-w9,quaternary-single-CPM-PP,3,8,24,384,96,12,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p24-d13-w10,quaternary-single-CPM-PP,3,8,24,384,96,13,6,4,"3,4,6",10,144,omega*z^3,26,26,exact,structured recipe and final matrices
-q4-j3-l8-p24-d13-w9,quaternary-single-CPM-PP,3,8,24,384,96,13,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p26-d17-w10,quaternary-single-CPM-PP,3,8,26,416,104,17,6,4,"3,4",10,156,z^19,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p28-d18-w10,quaternary-single-CPM-PP,3,8,28,448,112,18,6,4,"3,4",10,168,z^18,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p32-d13-w10,quaternary-single-CPM-PP,3,8,32,512,128,13,6,4,"3,4,6",10,192,omega*z^28,26,26,exact,structured recipe and final matrices
-q4-j3-l8-p32-d13-w10-overlap10-267ebb3e,quaternary-single-CPM-PP,3,8,32,512,128,13,6,4,"3,4,6",10,192,omega*z^28,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p32-d14-w9,quaternary-single-CPM-PP,3,8,32,512,128,14,6,6,"3,4",9,192,omega*z^28,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p32-d16-w9,quaternary-single-CPM-PP,3,8,32,512,128,16,6,6,"3,4",9,192,omega*z^10,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p40-d11-w9,quaternary-single-CPM-PP,3,8,40,640,160,11,6,6,"3,4",9,240,omega*z^35,25,25,exact,structured recipe and final matrices
-q4-j3-l8-p40-d13-w10,quaternary-single-CPM-PP,3,8,40,640,160,13,6,4,"3,4,6",10,240,omega*z^35,26,26,exact,structured recipe and final matrices
-q4-j3-l8-p40-d13-w10-overlap10-07b4838c,quaternary-single-CPM-PP,3,8,40,640,160,13,6,4,"3,4,6",10,240,omega*z^5,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p48-d11-w9-overlap10-95c0acf5,quaternary-single-CPM-PP,3,8,48,768,192,11,6,6,"3,4",9,288,omega*z^42,27,27,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p48-d12-w10-overlap10-4d09fbae,quaternary-single-CPM-PP,3,8,48,768,192,12,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p48-d12-w10-overlap10-62b4778e,quaternary-single-CPM-PP,3,8,48,768,192,12,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p48-d13-w10-overlap10-74019097,quaternary-single-CPM-PP,3,8,48,768,192,13,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p48-d13-w10-overlap10-d865c422,quaternary-single-CPM-PP,3,8,48,768,192,13,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-f2-multicpm-j3-l8-p52-d16-w9,binary-multi-CPM-PP,3,8,52,416,104,16,6,6,"3,4",9,156,z^44,35,35,exact,structured recipe and final matrices
-q4-j3-l8-p56-d13-w10-overlap10-280184ef,quaternary-single-CPM-PP,3,8,56,896,224,13,6,4,"3,4,6",10,336,omega*z^7,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p56-d13-w10-overlap10-7a39140c,quaternary-single-CPM-PP,3,8,56,896,224,13,6,4,"3,4,6",10,336,omega*z^7,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p64-d13-w10-overlap10-0af62e79,quaternary-single-CPM-PP,3,8,64,1024,256,13,6,4,"3,4,6",10,384,omega*z^56,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p64-d13-w10-overlap10-2faf22a4,quaternary-single-CPM-PP,3,8,64,1024,256,13,6,4,"3,4,6",10,384,omega*z^56,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p64-d15-w10-overlap10-cb8b9b7f,quaternary-single-CPM-PP,3,8,64,1024,256,15,6,4,"3,4,5,6",10,384,omega^2*z^20,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p64-d18-w10-overlap10-ba8b7485,quaternary-single-CPM-PP,3,8,64,1024,256,18,6,4,"3,4,5,6",10,384,omega^2*z^58,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p64-d20-w10-overlap10,quaternary-single-CPM-PP,3,8,64,1024,256,20,6,4,"3,4,5",10,384,omega^2*z^37,25,25,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p72-d11-w9-overlap10-e3140360,quaternary-single-CPM-PP,3,8,72,1152,288,11,6,6,"3,4",9,432,omega*z^63,27,27,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p80-d13-w10-overlap10-1676bbe6,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p80-d13-w10-overlap10-4a0a3898,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p80-d13-w10-overlap10-5f437d04,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p80-d13-w10-overlap10-c7c8acab,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p96-d13-w10-overlap10-22b319e4,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p96-d13-w10-overlap10-7a48817b,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p96-d13-w10-overlap10-7d9c5946,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p104-d15-w9,quaternary-single-CPM-PP,3,8,104,1664,416,15,6,6,"3,4",9,624,omega*z^8,27,27,exact,structured recipe and final matrices
-q4-j3-l8-p112-d13-w10-overlap10-17f77c01,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p112-d13-w10-overlap10-cd4a971c,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p112-d13-w10-overlap10-e07b64d0,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-q4-j3-l8-p128-d13-w10-overlap10-a392525d,quaternary-single-CPM-PP,3,8,128,2048,512,13,6,4,"3,4,6",10,768,omega*z^112,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices"
-f2-multicpm-j3-l8-p128-d22-w9,binary-multi-CPM-PP,3,8,128,1024,256,22,6,6,"3,4",9,384,z^8,33,33,exact,structured recipe and final matrices
-q4-j3-l8-p128-d24-w10,quaternary-single-CPM-PP,3,8,128,2048,512,24,6,4,"3,4",10,768,z^122,27,27,exact,structured recipe and final matrices
-q4-j3-l10-p31-d14-w12,quaternary-single-CPM-PP,3,10,31,620,248,14,6,4,3-6,12,186,z^21,25,26,exact,pivot data and final matrices
-q4-j3-l10-p37-d13-w12,quaternary-single-CPM-PP,3,10,37,740,296,13,6,4,3-5,12,222,z^24,28,28,exact,pivot data and final matrices
-q4-j3-l10-p37-d15-w12,quaternary-single-CPM-PP,3,10,37,740,296,15,6,4,3-5,12,222,z^14,28,28,exact,pivot data and final matrices
-q4-j3-l10-p41-d13-w11,quaternary-single-CPM-PP,3,10,41,820,328,13,6,4,3-4,11,246,z^15,25,25,exact,pivot data and final matrices
-q4-j3-l10-p53-d16-w12,quaternary-single-CPM-PP,3,10,53,1060,424,16,6,4,3-5,12,318,z^32,26,26,exact,pivot data and final matrices
-f2-multicpm-j4-l8-p52-d16-w16-dependent,binary-multi-CPM-PP,4,8,52,416,104,16,4,4,"5,6",16,156,inherited from J=3,35,35,exact; inherited from identical stabilizer row spaces,dependent fourth block row and final matrices
-f2-multicpm-j4-l8-p128-d22-w16-dependent,binary-multi-CPM-PP,4,8,128,1024,256,22,4,4,"5,6",16,384,inherited from J=3,33,33,exact; inherited from identical stabilizer row spaces,dependent fourth block row and final matrices
-q4-j3-l8-p128-d20-w10-overlap10,quaternary-single-CPM-PP,3,8,128,2048,512,20,6,4,"3,4,5",10,768,omega*z^109,27,27,exact,complete polynomial recipe and final matrices
+id,family,J,L,P,n,k,d,girth_symbol,girth_binary,column_weight,max_check_row_weight,check_rank_each,gram,max_basis_weight_x,max_basis_weight_z,distance_status,construction_status,max_overlap_same,max_overlap_different
+q4-j3-l8-p13-d10-w9-girth6,quaternary-single-CPM-PP,3,8,13,208,52,10,6,6,"3,4",9,78,unit (6 terms),24,24,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p15-d11-w9-girth6,quaternary-single-CPM-PP,3,8,15,240,60,11,6,6,"3,4",9,90,unit (6 terms),35,35,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p16-d11-w9-girth6,quaternary-single-CPM-PP,3,8,16,256,64,11,6,6,"3,4",9,96,unit (2 terms),28,28,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",3,4
+q4-j3-l8-p16-d12-w9-girth6,quaternary-single-CPM-PP,3,8,16,256,64,12,6,6,"3,4",9,96,omega*z^7,27,27,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p18-d10-w9-girth6,quaternary-single-CPM-PP,3,8,18,288,72,10,6,6,"3,4",9,108,omega^2*z^15,22,22,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p18-d12-w9-girth6,quaternary-single-CPM-PP,3,8,18,288,72,12,6,6,"3,4",9,108,omega^2*z^15,22,22,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p20-d10-w9,quaternary-single-CPM-PP,3,8,20,320,80,10,6,6,"3,4",9,120,omega*z^4,26,26,exact,structured recipe and final matrices,,
+q4-j3-l8-p20-d11-w9-girth6,quaternary-single-CPM-PP,3,8,20,320,80,11,6,6,"3,4",9,120,omega*z^12,26,26,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p20-d13-w10,quaternary-single-CPM-PP,3,8,20,320,80,13,6,4,"3,4",10,120,z^6,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p20-d13-w9-girth6,quaternary-single-CPM-PP,3,8,20,320,80,13,6,6,"3,4",9,120,unit (2 terms),33,33,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,4
+q4-j3-l8-p20-d14-w10,quaternary-single-CPM-PP,3,8,20,320,80,14,6,4,"3,4",10,120,z^8,25,25,exact,structured recipe and final matrices,,
+q4-j3-l8-p22-d11-w9-girth6,quaternary-single-CPM-PP,3,8,22,352,88,11,6,6,"3,4",9,132,omega^2*z^1,24,24,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p22-d13-w9-girth6,quaternary-single-CPM-PP,3,8,22,352,88,13,6,6,"3,4",9,132,omega^2*z^18,24,24,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p22-d14-w9-girth6,quaternary-single-CPM-PP,3,8,22,352,88,14,6,6,"3,4",9,132,omega^2*z^4,26,26,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p22-d15-w10,quaternary-single-CPM-PP,3,8,22,352,88,15,6,4,"3,4",10,132,z^17,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p22-d16-w10,quaternary-single-CPM-PP,3,8,22,352,88,16,6,4,"3,4",10,132,z^16,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p24-d12-w9,quaternary-single-CPM-PP,3,8,24,384,96,12,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p24-d13-w10,quaternary-single-CPM-PP,3,8,24,384,96,13,6,4,"3,4,6",10,144,omega*z^3,26,26,exact,structured recipe and final matrices,1,0
+q4-j3-l8-p24-d13-w9,quaternary-single-CPM-PP,3,8,24,384,96,13,6,6,"3,4",9,144,omega*z^21,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p26-d15-w9-girth6,quaternary-single-CPM-PP,3,8,26,416,104,15,6,6,"3,4",9,156,omega^2*z^7,28,28,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p26-d17-w10,quaternary-single-CPM-PP,3,8,26,416,104,17,6,4,"3,4",10,156,z^19,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p28-d15-w9-girth6,quaternary-single-CPM-PP,3,8,28,448,112,15,6,6,"3,4",9,168,omega*z^13,27,27,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p28-d16-w9-girth6,quaternary-single-CPM-PP,3,8,28,448,112,16,6,6,"3,4",9,168,omega*z^13,27,27,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p28-d18-w10,quaternary-single-CPM-PP,3,8,28,448,112,18,6,4,"3,4",10,168,z^18,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p30-d14-w9-girth6,quaternary-single-CPM-PP,3,8,30,480,120,14,6,6,"3,4",9,180,omega^2*z^1,24,24,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p32-d13-w10,quaternary-single-CPM-PP,3,8,32,512,128,13,6,4,"3,4,6",10,192,omega*z^28,26,26,exact,structured recipe and final matrices,1,0
+q4-j3-l8-p32-d13-w10-overlap10-267ebb3e,quaternary-single-CPM-PP,3,8,32,512,128,13,6,4,"3,4,6",10,192,omega*z^28,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p32-d14-w9,quaternary-single-CPM-PP,3,8,32,512,128,14,6,6,"3,4",9,192,omega*z^28,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p32-d16-w9,quaternary-single-CPM-PP,3,8,32,512,128,16,6,6,"3,4",9,192,omega*z^10,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p36-d17-w9-girth6,quaternary-single-CPM-PP,3,8,36,576,144,17,6,6,"3,4",9,216,omega*z^8,32,32,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,4
+q4-j3-l8-p40-d11-w9,quaternary-single-CPM-PP,3,8,40,640,160,11,6,6,"3,4",9,240,omega*z^35,25,25,exact,structured recipe and final matrices,,
+q4-j3-l8-p40-d13-w10,quaternary-single-CPM-PP,3,8,40,640,160,13,6,4,"3,4,6",10,240,omega*z^35,26,26,exact,structured recipe and final matrices,1,0
+q4-j3-l8-p40-d13-w10-overlap10-07b4838c,quaternary-single-CPM-PP,3,8,40,640,160,13,6,4,"3,4,6",10,240,omega*z^5,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p40-d18-w9-girth6,quaternary-single-CPM-PP,3,8,40,640,160,18,6,6,"3,4",9,240,unit (5 terms),29,29,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,6
+q4-j3-l8-p40-d19-w9-girth6,quaternary-single-CPM-PP,3,8,40,640,160,19,6,6,"3,4",9,240,omega^2*z^26,32,32,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,6
+q4-j3-l8-p44-d20-w9-girth6,quaternary-single-CPM-PP,3,8,44,704,176,20,6,6,"3,4",9,264,omega^2*z^30,32,32,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,6
+q4-j3-l8-p48-d11-w9-overlap10-95c0acf5,quaternary-single-CPM-PP,3,8,48,768,192,11,6,6,"3,4",9,288,omega*z^42,27,27,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p48-d12-w10-overlap10-4d09fbae,quaternary-single-CPM-PP,3,8,48,768,192,12,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p48-d12-w10-overlap10-62b4778e,quaternary-single-CPM-PP,3,8,48,768,192,12,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p48-d13-w10-overlap10-74019097,quaternary-single-CPM-PP,3,8,48,768,192,13,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p48-d13-w10-overlap10-d865c422,quaternary-single-CPM-PP,3,8,48,768,192,13,6,4,"3,4,6",10,288,omega*z^42,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p48-d18-w9-girth6,quaternary-single-CPM-PP,3,8,48,768,192,18,6,6,"3,4",9,288,omega^2*z^45,28,28,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,2
+q4-j3-l8-p48-d19-w9-girth6,quaternary-single-CPM-PP,3,8,48,768,192,19,6,6,"3,4",9,288,omega*z^35,33,33,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,4
+f2-multicpm-j3-l8-p52-d16-w9,binary-multi-CPM-PP,3,8,52,416,104,16,6,6,"3,4",9,156,z^44,35,35,exact,structured recipe and final matrices,,
+f2-multicpm-j4-l8-p52-d16-w16-dependent,binary-multi-CPM-PP,4,8,52,416,104,16,4,4,"5,6",16,156,inherited from J=3,35,35,exact; inherited from identical stabilizer row spaces,dependent fourth block row and final matrices,,
+q4-j3-l8-p56-d13-w10-overlap10-280184ef,quaternary-single-CPM-PP,3,8,56,896,224,13,6,4,"3,4,6",10,336,omega*z^7,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p56-d13-w10-overlap10-7a39140c,quaternary-single-CPM-PP,3,8,56,896,224,13,6,4,"3,4,6",10,336,omega*z^7,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d13-w10-overlap10-0af62e79,quaternary-single-CPM-PP,3,8,64,1024,256,13,6,4,"3,4,6",10,384,omega*z^56,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d13-w10-overlap10-2faf22a4,quaternary-single-CPM-PP,3,8,64,1024,256,13,6,4,"3,4,6",10,384,omega*z^56,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d15-w10-overlap10-cb8b9b7f,quaternary-single-CPM-PP,3,8,64,1024,256,15,6,4,"3,4,5,6",10,384,omega^2*z^20,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d18-w10-overlap10-ba8b7485,quaternary-single-CPM-PP,3,8,64,1024,256,18,6,4,"3,4,5,6",10,384,omega^2*z^58,39,39,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d20-w10-overlap10,quaternary-single-CPM-PP,3,8,64,1024,256,20,6,4,"3,4,5",10,384,omega^2*z^37,25,25,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p64-d20-w9-girth6,quaternary-single-CPM-PP,3,8,64,1024,256,20,6,6,"3,4",9,384,omega^2*z^58,32,32,exact,"full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",1,6
+q4-j3-l8-p72-d11-w9-overlap10-e3140360,quaternary-single-CPM-PP,3,8,72,1152,288,11,6,6,"3,4",9,432,omega*z^63,27,27,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p80-d13-w10-overlap10-1676bbe6,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p80-d13-w10-overlap10-4a0a3898,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p80-d13-w10-overlap10-5f437d04,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p80-d13-w10-overlap10-c7c8acab,quaternary-single-CPM-PP,3,8,80,1280,320,13,6,4,"3,4,6",10,480,omega*z^70,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p96-d13-w10-overlap10-22b319e4,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p96-d13-w10-overlap10-7a48817b,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p96-d13-w10-overlap10-7d9c5946,quaternary-single-CPM-PP,3,8,96,1536,384,13,6,4,"3,4,6",10,576,omega*z^84,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p104-d15-w9,quaternary-single-CPM-PP,3,8,104,1664,416,15,6,6,"3,4",9,624,omega*z^8,27,27,exact,structured recipe and final matrices,,
+q4-j3-l8-p112-d13-w10-overlap10-17f77c01,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p112-d13-w10-overlap10-cd4a971c,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p112-d13-w10-overlap10-e07b64d0,quaternary-single-CPM-PP,3,8,112,1792,448,13,6,4,"3,4,6",10,672,omega*z^98,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p128-d13-w10-overlap10-a392525d,quaternary-single-CPM-PP,3,8,128,2048,512,13,6,4,"3,4,6",10,768,omega*z^112,26,26,exact,"full polynomial checks, canonical seeds, and binary matrices",1,0
+q4-j3-l8-p128-d20-w10-overlap10,quaternary-single-CPM-PP,3,8,128,2048,512,20,6,4,"3,4,5",10,768,omega*z^109,27,27,exact,complete polynomial recipe and final matrices,,
+f2-multicpm-j3-l8-p128-d22-w9,binary-multi-CPM-PP,3,8,128,1024,256,22,6,6,"3,4",9,384,z^8,33,33,exact,structured recipe and final matrices,,
+f2-multicpm-j4-l8-p128-d22-w16-dependent,binary-multi-CPM-PP,4,8,128,1024,256,22,4,4,"5,6",16,384,inherited from J=3,33,33,exact; inherited from identical stabilizer row spaces,dependent fourth block row and final matrices,,
+q4-j3-l8-p128-d24-w10,quaternary-single-CPM-PP,3,8,128,2048,512,24,6,4,"3,4",10,768,z^122,27,27,exact,structured recipe and final matrices,,
+q4-j3-l10-p31-d14-w12,quaternary-single-CPM-PP,3,10,31,620,248,14,6,4,3-6,12,186,z^21,25,26,exact,pivot data and final matrices,,
+q4-j3-l10-p37-d13-w12,quaternary-single-CPM-PP,3,10,37,740,296,13,6,4,3-5,12,222,z^24,28,28,exact,pivot data and final matrices,,
+q4-j3-l10-p37-d15-w12,quaternary-single-CPM-PP,3,10,37,740,296,15,6,4,3-5,12,222,z^14,28,28,exact,pivot data and final matrices,,
+q4-j3-l10-p41-d13-w11,quaternary-single-CPM-PP,3,10,41,820,328,13,6,4,3-4,11,246,z^15,25,25,exact,pivot data and final matrices,,
+q4-j3-l10-p53-d16-w12,quaternary-single-CPM-PP,3,10,53,1060,424,16,6,4,3-5,12,318,z^32,26,26,exact,pivot data and final matrices,,

@@ -1,0 +1,111 @@
+{
+  "id": "q4-j3-l8-p40-d18-w9-girth6",
+  "family": "quaternary-single-CPM-PP",
+  "J": 3,
+  "L": 8,
+  "P": 40,
+  "n": 640,
+  "k": 160,
+  "d": 18,
+  "girth_symbol": 6,
+  "girth_binary": 6,
+  "column_weight": "3,4",
+  "max_check_row_weight": 9,
+  "check_rank_each": 240,
+  "gram": "unit (5 terms)",
+  "gram_terms": [
+    [
+      4,
+      2
+    ],
+    [
+      14,
+      3
+    ],
+    [
+      21,
+      1
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      34,
+      3
+    ]
+  ],
+  "max_basis_weight_x": 29,
+  "max_basis_weight_z": 29,
+  "distance_status": "exact",
+  "distance_evidence_status": "saved original proof plus independent three-Mac reexecution of all32 binary roots through d-1 and checked weight-d witness",
+  "construction_status": "full CPM shifts, coefficients, pair partitions, canonical seeds, and final matrices",
+  "max_overlap_same": 1,
+  "max_overlap_different": 6,
+  "matrix_file": "matrices.npz",
+  "matrix_sha256": {
+    "HX": "544d844a6d1b795e881a06a29a52d3e196f0a2f82cbc11c857b23fc376b74824",
+    "HZ": "3ed08287ec5024c8c5f2d180a76ff4a6b17e44a3acee227a10f1657ffb10a2fd",
+    "LX": "14cc0a11b58a2d74e029da2d4f09c7fe3c35334b6f9f6353967690cd51a3aae2",
+    "LZ": "dec848e32a9e06117ba7ba875ccc113a2ce900a8d729eaa81e6c800bab155656"
+  },
+  "matrix_shapes": {
+    "HX": [
+      240,
+      640
+    ],
+    "HZ": [
+      240,
+      640
+    ],
+    "LX": [
+      160,
+      640
+    ],
+    "LZ": [
+      160,
+      640
+    ]
+  },
+  "check_row_weights_HX": {
+    "8": 120,
+    "9": 120
+  },
+  "check_column_weights_HX": {
+    "3": 520,
+    "4": 120
+  },
+  "check_row_weights_HZ": {
+    "8": 120,
+    "9": 120
+  },
+  "check_column_weights_HZ": {
+    "3": 520,
+    "4": 120
+  },
+  "basis_weights_LX": {
+    "22": 40,
+    "25": 40,
+    "26": 40,
+    "29": 40
+  },
+  "basis_weights_LZ": {
+    "22": 40,
+    "25": 40,
+    "26": 40,
+    "29": 40
+  },
+  "replay_input_audit": {
+    "X": {
+      "archived_detector_matches_current_basis": false,
+      "original_detector_completeness_checked": true,
+      "replay_detector": "reconstructed from supplied complete opposite basis"
+    },
+    "Z": {
+      "archived_detector_matches_current_basis": false,
+      "original_detector_completeness_checked": true,
+      "replay_detector": "reconstructed from supplied complete opposite basis"
+    }
+  },
+  "three_mac_distance_recheck": "distance/three_mac_recheck/certificate.json"
+}
