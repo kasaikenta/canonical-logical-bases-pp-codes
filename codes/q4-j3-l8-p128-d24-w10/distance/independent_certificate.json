@@ -1,14 +1,14 @@
 {
   "n": 2048,
   "k": 512,
-  "lower_bound": 21,
+  "lower_bound": 24,
   "upper_bound": 24,
-  "exact": false,
-  "max_weight_searched": 20,
+  "exact": true,
+  "max_weight_searched": 23,
   "all_24_roots_complete": true,
-  "complete_prefixes": 21123,
-  "total_prefixes": 21123,
-  "nodes_complete_lower_scope": 6037469451,
+  "complete_prefixes": 28701,
+  "total_prefixes": 28701,
+  "nodes_complete_lower_scope": 286557869121,
   "input_reconstructed": true,
   "matrix_ranks": [
     768,
@@ -18,7 +18,7 @@
   "logical_pairing_is_identity": true,
   "xz_permutation_checked": true,
   "input_sha256": "77077926d9b9a4452dec64b7a250d410d7d737224ea0314de3d129d76482eaa4",
-  "engine_sha256": "361705b4146890a6485a246f95405bdb4d4f6373908de4987585797201a152b2",
+  "engine_sha256": "a3e45aedbfce85e4c9dfd8e2e24a7ff95101e3b9d1cb9363f39f6f7a2d561138",
   "witnesses_checked_by_binary_syndrome_and_rank": [
     {
       "coordinate_conversion": "direct",
@@ -52,6 +52,7 @@
       "word_hex": "0x80000000108000100000000000000000200020000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100010000000000020000000060000400000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000002200000000000000000000000000800008000000000100000040000000004000000000000000000110000000000000000020000000020000000000000000000000000000000000000000000000000000000000000000"
     }
   ],
-  "source_experiment": "exact2048_20260928",
-  "updated_at_utc": "2026-09-28T13:03:40Z"
+  "updated_at_utc": "2026-09-28T16:17:51Z",
+  "completed_certificate": "completed_certificate.json",
+  "supersedes": "The v1.0.9 record excluded only weights through 20."
 }

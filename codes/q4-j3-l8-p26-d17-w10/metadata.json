@@ -63,5 +63,6 @@
   "basis_weights_LZ": {
     "25": 52,
     "27": 52
-  }
+  },
+  "completed_distance_certificate": "distance/completed_certificate.json"
 }

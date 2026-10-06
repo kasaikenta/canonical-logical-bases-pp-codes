@@ -1,0 +1,62 @@
+{
+  "limit": 13,
+  "complete_roots_per_side": {
+    "X": 30,
+    "Z": 30
+  },
+  "aggregate_record": {
+    "sha256": "88c2351211cab8c208091d3f9b4818d1e824d628fd5f5842bce8ed4c680947e8",
+    "data": {
+      "sides": {
+        "X": {
+          "exact_distance": 14,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 1,
+              "complete_roots": 28,
+              "errors": []
+            }
+          ]
+        },
+        "Z": {
+          "exact_distance": 14,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 1,
+              "complete_roots": 28,
+              "errors": []
+            }
+          ]
+        }
+      },
+      "exact_CSS_distance": 14
+    }
+  },
+  "whole_root_followup_records": []
+}

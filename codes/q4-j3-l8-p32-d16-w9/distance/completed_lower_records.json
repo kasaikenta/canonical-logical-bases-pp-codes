@@ -1,0 +1,916 @@
+{
+  "records": [
+    {
+      "scope": [
+        "X",
+        0,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 22419328,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 12.2492,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751520.297747,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        0,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 35771333,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 19.4084,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751547.500797,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        0,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 21222821,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 11.6534,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751417.739696,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        1,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 30053963,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 17.0263,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751423.1151505,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        1,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 34993901,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 19.7674,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751425.858964,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        1,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 3992243,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 2.27034,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751408.360599,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        2,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 4601773,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 2.59761,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751408.6900315,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        2,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 5458657,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 3.12193,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751409.216935,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        2,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 988300,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.560089,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.6597416,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        3,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 610324,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.350107,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.4478312,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        3,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 694330,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.398506,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.4998505,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        3,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 150562,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0905525,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1940804,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        4,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 83410,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0439122,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1557908,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        4,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 77392,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0406533,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1655338,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        4,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 38777,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0215992,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1336513,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        5,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1543,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00237369,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.120639,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        5,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1450,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00217642,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.121415,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        5,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 859,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00179358,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1271,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        6,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 19,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00130667,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.130116,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        6,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 19,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00134304,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1274834,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        6,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 13,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00130109,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1293433,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        7,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0013285,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1340895,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        7,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00128716,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1330957,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "X",
+        7,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0018735,
+        "witness": [],
+        "side": "X",
+        "updated_at": 1790751406.1328938,
+        "input_sha256": "d122ea8900d96db85ce4cb819d515014a173fce9d816109b7728f1d3197d7bb1"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        0,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 29876568,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 16.0932,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751524.1450107,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        0,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 2469160,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 1.31516,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751489.3184035,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        0,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 30387459,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 16.5345,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751422.6690216,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        1,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1730435,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 1.35773,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751427.5627904,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        1,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 29135232,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 16.43,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751422.5705605,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        1,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 5132660,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 2.93032,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751409.0766084,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        2,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 5079045,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 2.97315,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751409.1163876,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        2,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 5352273,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 3.12079,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751409.2721326,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        2,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 586351,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.347414,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.5022306,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        3,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 622093,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.362834,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.5117452,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        3,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 622093,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.368898,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.533382,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        3,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 69505,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0441665,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1966162,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        4,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 42682,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0298029,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1868536,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        4,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 42682,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0297289,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1957963,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        4,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 9301,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0106531,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1755745,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        5,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1732,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00226726,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.171253,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        5,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1732,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00271293,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1705167,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        5,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 442,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0015045,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1789432,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        6,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 19,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00154593,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1767035,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        6,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 19,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00129944,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1760812,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        6,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 13,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00182482,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.183078,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        7,
+        1
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00187138,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.182565,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        7,
+        2
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.00679704,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.190741,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    },
+    {
+      "scope": [
+        "Z",
+        7,
+        3
+      ],
+      "result": {
+        "limit": 15,
+        "nodes": 1,
+        "complete": true,
+        "found": false,
+        "frontier_size": 0,
+        "seconds": 0.0014761,
+        "witness": [],
+        "side": "Z",
+        "updated_at": 1790751406.1828682,
+        "input_sha256": "f9f458a9ec2d9894dd4c07d1be282abe0ebfb6f8da4c912efff37a1297074f30"
+      }
+    }
+  ]
+}

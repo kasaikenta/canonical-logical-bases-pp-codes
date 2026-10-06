@@ -69,5 +69,6 @@
     "21": 40,
     "22": 40,
     "25": 40
-  }
+  },
+  "completed_distance_certificate": "distance/completed_certificate.json"
 }

@@ -1,0 +1,133 @@
+{
+  "limit": 15,
+  "complete_roots_per_side": {
+    "X": 30,
+    "Z": 30
+  },
+  "aggregate_record": {
+    "sha256": "3c4ae015a9aceedd7d852539a5f85b2da2bff0cdb490e0f0de7f2a61ac4c1934",
+    "data": {
+      "sides": {
+        "X": {
+          "exact_distance": null,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 15,
+              "found_roots": 0,
+              "complete_roots": 28,
+              "errors": []
+            }
+          ]
+        },
+        "Z": {
+          "exact_distance": null,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 15,
+              "found_roots": 0,
+              "complete_roots": 28,
+              "errors": []
+            }
+          ]
+        }
+      },
+      "exact_CSS_distance": null
+    }
+  },
+  "whole_root_followup_records": [
+    {
+      "sha256": "498a362e57884d8ba079b668cafb712b0c02593cfa43190c39065a7e7cc7d44e",
+      "data": {
+        "block": 0,
+        "a": 1,
+        "limit": 15,
+        "nodes": 462983205,
+        "complete": true,
+        "found": false,
+        "seconds": 448.674,
+        "witness": []
+      },
+      "side_from_saved_task_schedule": "X"
+    },
+    {
+      "sha256": "e6ddf6de5574c5401cfd92c38e6118d9b7805a92c040cec3fc01c2921042f135",
+      "data": {
+        "block": 0,
+        "a": 2,
+        "limit": 15,
+        "nodes": 587899781,
+        "complete": true,
+        "found": false,
+        "seconds": 567.387,
+        "witness": []
+      },
+      "side_from_saved_task_schedule": "X"
+    },
+    {
+      "sha256": "9308a00efe133528a571d2b98c8eff2bed55a773073219d66ccb57a61cbde61b",
+      "data": {
+        "block": 0,
+        "a": 1,
+        "limit": 15,
+        "nodes": 597838106,
+        "complete": true,
+        "found": false,
+        "seconds": 651.634,
+        "witness": []
+      },
+      "side_from_saved_task_schedule": "Z"
+    },
+    {
+      "sha256": "3c43d04eee312c8424ffb8e5bc40220cb0e4cf34ae57b29317d0a39df1f1d6c7",
+      "data": {
+        "block": 0,
+        "a": 2,
+        "limit": 15,
+        "nodes": 490122484,
+        "complete": true,
+        "found": false,
+        "seconds": 474.42,
+        "witness": []
+      },
+      "side_from_saved_task_schedule": "Z"
+    }
+  ],
+  "coverage_provenance": "28/30 completed per side in the saved aggregate log, plus the two missing whole roots per side identified by the saved hard_roots_l10.tsv schedule and completed follow-up logs. No 30-way branch partition was used.",
+  "hard_root_schedule_sha256": "75e380ef1f0474b33e42a2cc1547a7741f2443f0a0c8db9cdc6c8e01fcbc6212"
+}

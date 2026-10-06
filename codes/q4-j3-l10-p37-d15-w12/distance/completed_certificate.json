@@ -1,0 +1,60 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "whole_roots",
+  "distance": 15,
+  "limit": 14,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "input_sha256": {
+    "X": "7744e449814ab62798f12f37f74c69e71c5da897bbc3c9a293c86ce38dd8db23",
+    "Z": "e6d680113ecaf1c43bacb98f0f0547f7877781a65a03d43216b5c6274cae05c9"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_unsplit.cpp",
+    "sha256": "fc6b3285e6ee015c24f61dee3f9f0ec528823e8664b17f419234a799a00fa003"
+  },
+  "engine_provenance": "Recovered archived source, binary and execution wrappers; old per-root logs did not embed an engine digest. The source matches the independently reviewed local unsplit engine.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "X",
+      "weight": 15,
+      "binary_support": [
+        74,
+        88,
+        142,
+        153,
+        194,
+        214,
+        256,
+        342,
+        388,
+        515,
+        524,
+        531,
+        628,
+        679,
+        731
+      ]
+    }
+  ],
+  "code_id": "q4-j3-l10-p37-d15-w12",
+  "matrix_sha256": {
+    "HX": "84bbd06d8809da8f9ef9b87efe8476e299c1321db316249da07d192485ddbfb6",
+    "HZ": "fd9d97ef1c0684d115a93a1a66714310f68f82505a6f0d17b87ea5a368ceb1b7",
+    "LX": "f995d207b61933fed38139a7e05c9ee6b678ec75b93b76fc0962a99c7ea3810b",
+    "LZ": "2921419dda75d1691b6cb96a65caedd9e35fd217255dd5876ffcd45c4e5454b3"
+  },
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "96c0194e5f23b4538fd01977a68b90ed518ddc2d538dfae8eed7a1f12b1a91ad",
+    "distance_X.txt": "7744e449814ab62798f12f37f74c69e71c5da897bbc3c9a293c86ce38dd8db23",
+    "distance_Z.txt": "e6d680113ecaf1c43bacb98f0f0547f7877781a65a03d43216b5c6274cae05c9"
+  },
+  "root_coverage_provenance": "Historical aggregate count from a wrapper enumerating every distinct (block,value) root once; individual root outputs were not retained.",
+  "enumeration_wrapper": {
+    "file": "scripts/distance_engines/historical_quick_distance.py",
+    "sha256": "4de05c63040c4d813777a0becc5883ff35fec0a9b2cb391866f38f3f65190929"
+  }
+}

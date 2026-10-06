@@ -1,0 +1,56 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "root_records",
+  "code_id": "q4-j3-l8-p104-d15-w9",
+  "distance": 15,
+  "limit": 14,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "matrix_sha256": {
+    "HX": "d54c3a890beebe25366e86ecfff0b3ab9af9dd517beb60b32a898cf948c0555f",
+    "HZ": "20606a26d3b847368573aec226a8c2997d906926f614a18a824d5341124c7d44",
+    "LX": "64d698bd1e4c1dfed9faa7399623c5fc9aeed334be288f273da01012fc9eb368",
+    "LZ": "4567c60fa96a9034ebe64541cf9f01d736c8c3b26f7ef1179a65be2ca57720b6"
+  },
+  "input_sha256": {
+    "X": "cbae6d4a2fc67b391b0fcbea1149ea5b78252022a106ebd88394736c5a27c17f",
+    "Z": "d6563845adb0474f81b03947c4ac32f3a6f34c3da394719d62fbf006c987fd22"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_resume.cpp",
+    "sha256": "361705b4146890a6485a246f95405bdb4d4f6373908de4987585797201a152b2"
+  },
+  "engine_provenance": "Archived resume-engine source; per-root records identify inputs but do not individually embed executable digests.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "Z",
+      "weight": 15,
+      "binary_support": [
+        0,
+        1,
+        156,
+        172,
+        208,
+        365,
+        484,
+        589,
+        692,
+        694,
+        754,
+        1318,
+        1438,
+        1586,
+        1646
+      ]
+    }
+  ],
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "a96ef6c8b2339e9f7aa7fc5e81ee74c8dee910dd2724837f20f4e51d98a6ad43",
+    "distance_X.txt": "cbae6d4a2fc67b391b0fcbea1149ea5b78252022a106ebd88394736c5a27c17f",
+    "distance_Z.txt": "d6563845adb0474f81b03947c4ac32f3a6f34c3da394719d62fbf006c987fd22",
+    "distance_result.json": "03ea9227111247441c459522e9449672dbcd11fbe7f666df0a64dc4036013732"
+  }
+}

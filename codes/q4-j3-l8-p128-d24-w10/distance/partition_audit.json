@@ -1,0 +1,11 @@
+{
+  "max_weight": 23,
+  "regenerated_root_splits": 24,
+  "regenerated_refined_prefixes": 396,
+  "original_prefixes": 21123,
+  "final_prefixes": 28701,
+  "no_gaps_or_duplicate_ownership": true,
+  "root_node_counts_match": true,
+  "tasklist_sha256": "a09e09214dba41b5dccce3c311c4735041ba9e1420db6514db954a9aa8cdc23d",
+  "engine_sha256": "a3e45aedbfce85e4c9dfd8e2e24a7ff95101e3b9d1cb9363f39f6f7a2d561138"
+}

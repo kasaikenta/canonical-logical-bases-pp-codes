@@ -2,5 +2,7 @@
   "status": "exact",
   "d": 17,
   "scope": "fixed binary matrices identified by metadata.json hashes",
-  "source_records_copied": false
+  "source_records_copied": false,
+  "record_status": "superseded",
+  "superseded_by": "distance/completed_certificate.json"
 }

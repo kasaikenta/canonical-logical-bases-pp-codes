@@ -6,7 +6,7 @@ contains the final binary check matrices and complete canonical logical bases
 for the codes reported in the paper and additional fully documented examples.
 
 Detailed column counts and complete canonical-basis weight distributions for
-all four binary multi-CPM table instances are in
+four additional binary multi-CPM instances are in
 [the table-statistics page](docs/multicpm-table-statistics.md), with a
 [machine-readable report](docs/multicpm-table-statistics.json) and a script
 that reconstructs all four matrices for every instance.
@@ -25,7 +25,7 @@ that reconstructs all four matrices for every instance.
 - `scripts/verify_all.py`: independently checks dimensions, ranks, CSS
   commutation, logical kernel conditions, and canonical pairing over GF(2).
 
-The binary multi-CPM example moved out of the paper appendix is documented in
+An additional binary multi-CPM example is documented in
 [`codes/f2-multicpm-j3-l8-p128-d22-w9/README.md`](codes/f2-multicpm-j3-l8-p128-d22-w9/README.md).
 That page gives the formal family, PP parent, pair partitions, pivot minors,
 canonical normalization, fixed specialization, and exact-distance records.
@@ -45,8 +45,8 @@ weights 26/26 with integer support overlap equal to an identity matrix:
 Their symbol girths are 6/6 and binary girths 4/4. Each directory contains
 all polynomial data, final matrices, and compact exact-distance records.
 
-The catalog also contains the verified `P=52` instance and the dependent
-four-block-row presentations listed in the paper's appendix table.
+The catalog also contains a verified `P=52` instance and additional dependent
+four-block-row presentations.
 
 The compressed matrices are sufficient to reconstruct every displayed CSS
 code and its canonical basis without relying on private documents.  Structured
@@ -74,6 +74,26 @@ rank(LX) = rank(LZ) = k.
 
 It also checks the matrix SHA-256 digests and the row/column-weight summaries
 recorded in `metadata.json`.
+
+### Completed distance records in v1.0.10
+
+This release adds lower-search records and binary upper witnesses for 19
+instances: the six original small examples, seven check-weight-nine examples,
+`[[2048,512,24]]`, and all five L=10 examples with
+`(P,d)=(31,14),(37,13),(37,15),(41,13),(53,16)`. The old partial P=128
+certificate and L=10 progress snapshots are superseded by these completed
+records. Run their portable validator with:
+
+```bash
+python3 scripts/verify_completed_distances.py --regenerate-partitions
+```
+
+The command verifies actual input matrices, logical labels, symmetries,
+witnesses, saved completion records, and regenerated split frontiers. It checks saved
+exclusion records rather than rerunning every exhaustive leaf search. See
+[the distance documentation](docs/distance-certification.md) for scope and
+historical engine-provenance limitations. L=10 records retain aggregate root
+counts; the P=53 result additionally relies on the archived missing-root schedule.
 
 ## File convention
 

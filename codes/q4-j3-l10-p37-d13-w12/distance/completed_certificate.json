@@ -1,0 +1,58 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "whole_roots",
+  "distance": 13,
+  "limit": 12,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "input_sha256": {
+    "X": "07e989029fe93913624272a01c8ce7b8d4e62233f232c7a9b72aaf993a5883f4",
+    "Z": "5bea8c039306429ff0e7541589758b8e4a8c73cc26062ec3a921d221104b5662"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_unsplit.cpp",
+    "sha256": "fc6b3285e6ee015c24f61dee3f9f0ec528823e8664b17f419234a799a00fa003"
+  },
+  "engine_provenance": "Recovered archived source, binary and execution wrappers; old per-root logs did not embed an engine digest. The source matches the independently reviewed local unsplit engine.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "Z",
+      "weight": 13,
+      "binary_support": [
+        74,
+        162,
+        270,
+        278,
+        304,
+        305,
+        385,
+        393,
+        520,
+        528,
+        572,
+        580,
+        670
+      ]
+    }
+  ],
+  "code_id": "q4-j3-l10-p37-d13-w12",
+  "matrix_sha256": {
+    "HX": "b79599f77a29fdf5192d89241c86df0efbc1bbfdc4f14922aafc6aab7fc92250",
+    "HZ": "cba3206c876ec9e839439054d112e33727bd613947ff24c90b4e8313a00ba5ed",
+    "LX": "fc214ccdbdb6c4d88f52e0c83a7f57bffb53f322776598263f644eef3bcfe323",
+    "LZ": "9033361842a0104099d39b0e36e1e1bb25e5bddc8bd50538bbc4edda2253eacf"
+  },
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "911e101facb63267283c1281658bc5ec503d40c7a09fd028a4a37776bf957037",
+    "distance_X.txt": "07e989029fe93913624272a01c8ce7b8d4e62233f232c7a9b72aaf993a5883f4",
+    "distance_Z.txt": "5bea8c039306429ff0e7541589758b8e4a8c73cc26062ec3a921d221104b5662"
+  },
+  "root_coverage_provenance": "Historical aggregate count from a wrapper enumerating every distinct (block,value) root once; individual root outputs were not retained.",
+  "enumeration_wrapper": {
+    "file": "scripts/distance_engines/historical_quick_distance.py",
+    "sha256": "4de05c63040c4d813777a0becc5883ff35fec0a9b2cb391866f38f3f65190929"
+  }
+}

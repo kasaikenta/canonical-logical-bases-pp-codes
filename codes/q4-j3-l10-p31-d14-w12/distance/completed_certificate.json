@@ -1,0 +1,59 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "whole_roots",
+  "distance": 14,
+  "limit": 13,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "input_sha256": {
+    "X": "c2392a30f19730c9b654cb62f59315c190e86c409d858070ea145d2c5e6b488a",
+    "Z": "ec6f96f97ff3750ef155e33ecc5c3ba89cd52979ebba3f7d3e7dbe35ae9a718a"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_unsplit.cpp",
+    "sha256": "fc6b3285e6ee015c24f61dee3f9f0ec528823e8664b17f419234a799a00fa003"
+  },
+  "engine_provenance": "Recovered archived source, binary and execution wrappers; old per-root logs did not embed an engine digest. The source matches the independently reviewed local unsplit engine.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "X",
+      "weight": 14,
+      "binary_support": [
+        1,
+        73,
+        105,
+        116,
+        132,
+        163,
+        165,
+        247,
+        257,
+        322,
+        375,
+        460,
+        517,
+        585
+      ]
+    }
+  ],
+  "code_id": "q4-j3-l10-p31-d14-w12",
+  "matrix_sha256": {
+    "HX": "4320d9487a961f62c204a0d346181255f85f3b76cb6f973d69e1c9973b27b7c8",
+    "HZ": "88ea3de77aa70382d5ca6e088320f471f44b8334eedc6fb14281ca3468fdb079",
+    "LX": "8eaa30101645044a10958993d0c375c2fc39df678a1454e10168f4614dbda602",
+    "LZ": "d9ab5c19d119b118913cd9550f34e15897dbfece350906f8bf7621ed5f25b3b7"
+  },
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "23b55403d2a191dc909893eb626adeace9eee0c3f4f6f795d0821bac2b23cdbd",
+    "distance_X.txt": "c2392a30f19730c9b654cb62f59315c190e86c409d858070ea145d2c5e6b488a",
+    "distance_Z.txt": "ec6f96f97ff3750ef155e33ecc5c3ba89cd52979ebba3f7d3e7dbe35ae9a718a"
+  },
+  "root_coverage_provenance": "Historical aggregate count from a wrapper enumerating every distinct (block,value) root once; individual root outputs were not retained.",
+  "enumeration_wrapper": {
+    "file": "scripts/distance_engines/historical_quick_distance.py",
+    "sha256": "4de05c63040c4d813777a0becc5883ff35fec0a9b2cb391866f38f3f65190929"
+  }
+}

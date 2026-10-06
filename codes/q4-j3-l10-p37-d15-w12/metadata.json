@@ -71,5 +71,6 @@
     "25": 74,
     "27": 37,
     "28": 74
-  }
+  },
+  "completed_distance_certificate": "distance/completed_certificate.json"
 }

@@ -41,5 +41,7 @@
       ]
     }
   },
-  "exact_CSS_distance": null
+  "exact_CSS_distance": null,
+  "record_status": "superseded",
+  "superseded_by": "completed_certificate.json"
 }

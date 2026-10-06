@@ -1,0 +1,52 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "root_records",
+  "code_id": "q4-j3-l8-p40-d11-w9",
+  "distance": 11,
+  "limit": 10,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "matrix_sha256": {
+    "HX": "f0e6f3738c35c991c3c0a8885501103da1b114b805390e0e0905a5a70ff709bb",
+    "HZ": "db8d137365dd9dfa5336d4a34e714d6f30828cab7cb3e87c68dac00b54f87fb4",
+    "LX": "e7fc6bc7fb79a1a36945b17e03d254cf91436894d1715322e3fb0437aa95e28c",
+    "LZ": "9a2f1b4042bd2d2229f9ff09f39635604476faeb27e93e56cd08bc4a0b633691"
+  },
+  "input_sha256": {
+    "X": "c7e9ea0145427ac082026437e21483522773b98875c86562c1a9b722bfea7a4b",
+    "Z": "b5cab1947bda42c7b74ec7fdbb283b1e1916cef2c5b0a8430317c15dc4800a4b"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_resume.cpp",
+    "sha256": "361705b4146890a6485a246f95405bdb4d4f6373908de4987585797201a152b2"
+  },
+  "engine_provenance": "Archived resume-engine source; per-root records identify inputs but do not individually embed executable digests.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "Z",
+      "weight": 11,
+      "binary_support": [
+        1,
+        81,
+        100,
+        150,
+        171,
+        251,
+        290,
+        310,
+        560,
+        580,
+        610
+      ]
+    }
+  ],
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "1c72e2992bfbcbb4673380a0e49b5c790da279689a7d1333328a8884131bd660",
+    "distance_X.txt": "c7e9ea0145427ac082026437e21483522773b98875c86562c1a9b722bfea7a4b",
+    "distance_Z.txt": "b5cab1947bda42c7b74ec7fdbb283b1e1916cef2c5b0a8430317c15dc4800a4b",
+    "distance_result.json": "55ce3f1bf67b3e2d18cf57f3223d39f8945aa9ed6720f40bbaba4d8041ff4322"
+  }
+}

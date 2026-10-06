@@ -1,0 +1,59 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "whole_roots",
+  "code_id": "q4-j3-l10-p41-d13-w11",
+  "distance": 13,
+  "limit": 12,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "matrix_sha256": {
+    "HX": "e4c38263de75e473fb847dc219aa6cfd4a45696704eef2757a37cdf2b537fb6c",
+    "HZ": "53d9d3200046aa05017d619f16d657aa36a9ad796e50360a0c58f75bb59a080f",
+    "LX": "8d9bd13f217024ee6b97028549ca47c0392c99de19cb8429347f45d2b046ba03",
+    "LZ": "a06478c9e1258f73b2b3b8b771e40f76583811fefd47ae675641527f92f651a8"
+  },
+  "input_sha256": {
+    "X": "feb038742074a06e1eb999cf2c09a1ec8f4ea2b0571f7b841b3f1000c3c0b80b",
+    "Z": "68ea6cc0ddf9f1c989b18ac0e723ddc4a67a7ab92a45553bf7ac4d4fc5e76ded"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_unsplit.cpp",
+    "sha256": "fc6b3285e6ee015c24f61dee3f9f0ec528823e8664b17f419234a799a00fa003"
+  },
+  "engine_provenance": "Historical lower-search aggregate with archived unsplit source; upper witness recovered locally on 2026-10-06 and verified on the saved binary matrices.",
+  "enumeration_wrapper": {
+    "file": "scripts/distance_engines/historical_quick_distance.py",
+    "sha256": "4de05c63040c4d813777a0becc5883ff35fec0a9b2cb391866f38f3f65190929"
+  },
+  "root_coverage_provenance": "Historical aggregate count from a wrapper enumerating every distinct (block,value) root once; individual root outputs were not retained.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "X",
+      "weight": 13,
+      "binary_support": [
+        0,
+        1,
+        32,
+        145,
+        190,
+        378,
+        411,
+        453,
+        523,
+        530,
+        571,
+        712,
+        778
+      ]
+    }
+  ],
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "ddb5347033106af3624443cf565782c86ca355beca76cfb8fb148efaa5574504",
+    "recovered_upper_record.json": "b5f51ecc4e0e46db201b8fdc8a311000edcdeff3eef35bfc5700cb229d72246a",
+    "distance_X.txt": "feb038742074a06e1eb999cf2c09a1ec8f4ea2b0571f7b841b3f1000c3c0b80b",
+    "distance_Z.txt": "68ea6cc0ddf9f1c989b18ac0e723ddc4a67a7ab92a45553bf7ac4d4fc5e76ded"
+  }
+}

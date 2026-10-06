@@ -1,0 +1,74 @@
+{
+  "limit": 14,
+  "complete_roots_per_side": {
+    "X": 30,
+    "Z": 30
+  },
+  "aggregate_record": {
+    "sha256": "8a791c7e48319bca1e23fc47824aa71597fb451e603c47a151911834a7f898c0",
+    "data": {
+      "sides": {
+        "X": {
+          "exact_distance": 15,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 15,
+              "found_roots": 1,
+              "complete_roots": 27,
+              "errors": []
+            }
+          ]
+        },
+        "Z": {
+          "exact_distance": null,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 14,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 15,
+              "found_roots": 0,
+              "complete_roots": 26,
+              "errors": []
+            }
+          ]
+        }
+      },
+      "exact_CSS_distance": null
+    }
+  },
+  "whole_root_followup_records": []
+}

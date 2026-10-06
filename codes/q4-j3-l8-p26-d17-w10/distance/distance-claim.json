@@ -1,0 +1,9 @@
+{
+  "status": "exact",
+  "d": 17,
+  "lower_bound": 17,
+  "upper_bound": 17,
+  "scope": "fixed binary matrices identified by metadata.json hashes",
+  "completed_certificate": "completed_certificate.json",
+  "verification": "python3 scripts/verify_completed_distances.py --code q4-j3-l8-p26-d17-w10"
+}

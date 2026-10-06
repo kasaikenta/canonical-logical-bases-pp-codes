@@ -1,0 +1,45 @@
+{
+  "limit": 12,
+  "aggregate_record": {
+    "data": {
+      "sides": {
+        "X": {
+          "exact_distance": 13,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 2,
+              "complete_roots": 28,
+              "errors": []
+            }
+          ]
+        },
+        "Z": {
+          "exact_distance": 13,
+          "history": [
+            {
+              "limit": 12,
+              "found_roots": 0,
+              "complete_roots": 30,
+              "errors": []
+            },
+            {
+              "limit": 13,
+              "found_roots": 1,
+              "complete_roots": 29,
+              "errors": []
+            }
+          ]
+        }
+      },
+      "exact_CSS_distance": 13
+    }
+  },
+  "whole_root_followup_records": []
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "completed-distance-v1",
+  "kind": "whole_roots",
+  "distance": 16,
+  "limit": 15,
+  "sides": [
+    "X",
+    "Z"
+  ],
+  "input_sha256": {
+    "X": "807a42f4d5a287a891d8dbd2d809598a4d6d0290f4eda5f78cd8b185477efc60",
+    "Z": "f9d841483b3ad19f366da4af74013ef3a99455e6215a0c1bb9202e36ff9e3b1e"
+  },
+  "engine": {
+    "file": "scripts/distance_engines/gf4_unsplit.cpp",
+    "sha256": "fc6b3285e6ee015c24f61dee3f9f0ec528823e8664b17f419234a799a00fa003"
+  },
+  "engine_provenance": "Recovered archived source, binary and execution wrappers; old per-root logs did not embed an engine digest. The source matches the independently reviewed local unsplit engine.",
+  "lower_records": "completed_lower_records.json",
+  "upper_witnesses": [
+    {
+      "side": "X",
+      "weight": 16,
+      "binary_support": [
+        212,
+        346,
+        365,
+        391,
+        450,
+        571,
+        599,
+        647,
+        673,
+        708,
+        812,
+        848,
+        922,
+        928,
+        1003,
+        1029
+      ]
+    }
+  ],
+  "code_id": "q4-j3-l10-p53-d16-w12",
+  "matrix_sha256": {
+    "HX": "b710bd85d247cd5129cd8e5a41b35266c5212bd2085c98f24624edc4fcd86108",
+    "HZ": "ff5084046345179b5100f5b688e326de764e6f9aa30c7dfe20cdfce37f237e20",
+    "LX": "b6d40217d2d95a3add070c99473454a7a176864aa4dd809977011372bd64a1b1",
+    "LZ": "6cfb660df3db681b6ffbe98fa5cc7fdfb64df8b6b16e488b3d863032a95edf6a"
+  },
+  "evidence_files_sha256": {
+    "completed_lower_records.json": "a337721eb318ec08b951103aefca037ed009ef5cccf4025ba481a1f368136486",
+    "distance_X.txt": "807a42f4d5a287a891d8dbd2d809598a4d6d0290f4eda5f78cd8b185477efc60",
+    "distance_Z.txt": "f9d841483b3ad19f366da4af74013ef3a99455e6215a0c1bb9202e36ff9e3b1e",
+    "original_hard_root_schedule.tsv": "75e380ef1f0474b33e42a2cc1547a7741f2443f0a0c8db9cdc6c8e01fcbc6212"
+  },
+  "root_coverage_provenance": "Historical aggregate 28/30 completion per side plus completed scheduled follow-ups (0,1),(0,2). The aggregate did not retain identities of its 28 completed roots, so identity-level disjointness relies on the historical schedule.",
+  "enumeration_wrapper": {
+    "file": "scripts/distance_engines/historical_quick_distance.py",
+    "sha256": "4de05c63040c4d813777a0becc5883ff35fec0a9b2cb391866f38f3f65190929"
+  },
+  "identity_level_coverage_independently_verified": false,
+  "hard_root_schedule": "original_hard_root_schedule.tsv",
+  "historical_case_label": "jl_verified_L10_P53_seed202611093001"
+}

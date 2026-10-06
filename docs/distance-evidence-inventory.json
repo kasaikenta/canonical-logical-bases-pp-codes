@@ -1,0 +1,430 @@
+{
+  "release": "1.0.10",
+  "scope": "46 current manuscript Table 1 rows; same-check basis variants share distance records",
+  "warning": "Evidence levels distinguish identified root/branch records from historical aggregate counts. They are not interchangeable.",
+  "counts": {
+    "identified_physical_bit_root_reexecution_records": 18,
+    "identified_root_records_and_regenerable_partitions": 5,
+    "identified_root_records": 16,
+    "archived_branch_tree_audit": 1,
+    "aggregate_stage_completion_records": 1,
+    "aggregate_all_root_counts": 4,
+    "aggregate_counts_and_scheduled_followups": 1
+  },
+  "instances": [
+    {
+      "instance": "codes/q4-j3-l8-p13-d10-w9-girth6",
+      "n": 208,
+      "k": 52,
+      "claimed_exact_distance": 10,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p13-d10-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p15-d11-w9-girth6",
+      "n": 240,
+      "k": 60,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p15-d11-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p16-d12-w9-girth6",
+      "n": 256,
+      "k": 64,
+      "claimed_exact_distance": 12,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p16-d12-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p18-d12-w9-girth6",
+      "n": 288,
+      "k": 72,
+      "claimed_exact_distance": 12,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p18-d12-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p20-d11-w9-girth6",
+      "n": 320,
+      "k": 80,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p20-d11-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p20-d13-w9-girth6",
+      "n": 320,
+      "k": 80,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p20-d13-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p20-d14-w10",
+      "n": 320,
+      "k": 80,
+      "claimed_exact_distance": 14,
+      "evidence_level": "identified_root_records_and_regenerable_partitions",
+      "record": "codes/q4-j3-l8-p20-d14-w10/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p22-d13-w9-girth6",
+      "n": 352,
+      "k": 88,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p22-d13-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p22-d14-w9-girth6",
+      "n": 352,
+      "k": 88,
+      "claimed_exact_distance": 14,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p22-d14-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p22-d16-w10",
+      "n": 352,
+      "k": 88,
+      "claimed_exact_distance": 16,
+      "evidence_level": "identified_root_records_and_regenerable_partitions",
+      "record": "codes/q4-j3-l8-p22-d16-w10/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p24-d13-w9",
+      "n": 384,
+      "k": 96,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p24-d13-w9/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p24-d13-w10",
+      "n": 384,
+      "k": 96,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p24-d13-w10/distance/no_witness_through_12.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p26-d15-w9-girth6",
+      "n": 416,
+      "k": 104,
+      "claimed_exact_distance": 15,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p26-d15-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p26-d17-w10",
+      "n": 416,
+      "k": 104,
+      "claimed_exact_distance": 17,
+      "evidence_level": "identified_root_records_and_regenerable_partitions",
+      "record": "codes/q4-j3-l8-p26-d17-w10/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p28-d16-w9-girth6",
+      "n": 448,
+      "k": 112,
+      "claimed_exact_distance": 16,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p28-d16-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p28-d18-w10",
+      "n": 448,
+      "k": 112,
+      "claimed_exact_distance": 18,
+      "evidence_level": "identified_root_records_and_regenerable_partitions",
+      "record": "codes/q4-j3-l8-p28-d18-w10/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p30-d14-w9-girth6",
+      "n": 480,
+      "k": 120,
+      "claimed_exact_distance": 14,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p30-d14-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p32-d13-w10-overlap10-267ebb3e",
+      "n": 512,
+      "k": 128,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p32-d13-w10-overlap10-267ebb3e/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p32-d16-w9",
+      "n": 512,
+      "k": 128,
+      "claimed_exact_distance": 16,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p32-d16-w9/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p36-d17-w9-girth6",
+      "n": 576,
+      "k": 144,
+      "claimed_exact_distance": 17,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p36-d17-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p40-d11-w9",
+      "n": 640,
+      "k": 160,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p40-d11-w9/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p40-d11-w9/basis_variants/systematic-overlap10",
+      "n": 640,
+      "k": 160,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p40-d11-w9/distance/completed_certificate.json",
+      "same_checks_as": "codes/q4-j3-l8-p40-d11-w9"
+    },
+    {
+      "instance": "codes/q4-j3-l8-p40-d13-w10-overlap10-07b4838c",
+      "n": 640,
+      "k": 160,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p40-d13-w10-overlap10-07b4838c/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p40-d18-w9-girth6",
+      "n": 640,
+      "k": 160,
+      "claimed_exact_distance": 18,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p40-d18-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p40-d19-w9-girth6",
+      "n": 640,
+      "k": 160,
+      "claimed_exact_distance": 19,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p40-d19-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p44-d20-w9-girth6",
+      "n": 704,
+      "k": 176,
+      "claimed_exact_distance": 20,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p44-d20-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p48-d11-w9-overlap10-95c0acf5",
+      "n": 768,
+      "k": 192,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p48-d11-w9-overlap10-95c0acf5/distance/w10/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p48-d13-w10-overlap10-74019097",
+      "n": 768,
+      "k": 192,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p48-d13-w10-overlap10-74019097/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p48-d18-w9-girth6",
+      "n": 768,
+      "k": 192,
+      "claimed_exact_distance": 18,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p48-d18-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p48-d19-w9-girth6",
+      "n": 768,
+      "k": 192,
+      "claimed_exact_distance": 19,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p48-d19-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p56-d13-w10-overlap10-7a39140c",
+      "n": 896,
+      "k": 224,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p56-d13-w10-overlap10-7a39140c/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p64-d20-w9-girth6",
+      "n": 1024,
+      "k": 256,
+      "claimed_exact_distance": 20,
+      "evidence_level": "identified_physical_bit_root_reexecution_records",
+      "record": "codes/q4-j3-l8-p64-d20-w9-girth6/distance/three_mac_recheck/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p64-d20-w10-overlap10",
+      "n": 1024,
+      "k": 256,
+      "claimed_exact_distance": 20,
+      "evidence_level": "archived_branch_tree_audit",
+      "record": "codes/q4-j3-l8-p64-d20-w10-overlap10/distance/stage19_certificate_audit.json.gz",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p72-d11-w9-overlap10-e3140360",
+      "n": 1152,
+      "k": 288,
+      "claimed_exact_distance": 11,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p72-d11-w9-overlap10-e3140360/distance/w10/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p80-d13-w10-overlap10-1676bbe6",
+      "n": 1280,
+      "k": 320,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p80-d13-w10-overlap10-1676bbe6/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p96-d13-w10-overlap10-22b319e4",
+      "n": 1536,
+      "k": 384,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p96-d13-w10-overlap10-22b319e4/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p104-d15-w9",
+      "n": 1664,
+      "k": 416,
+      "claimed_exact_distance": 15,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p104-d15-w9/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p112-d13-w10-overlap10-cd4a971c",
+      "n": 1792,
+      "k": 448,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p112-d13-w10-overlap10-cd4a971c/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p128-d13-w10-overlap10-a392525d",
+      "n": 2048,
+      "k": 512,
+      "claimed_exact_distance": 13,
+      "evidence_level": "identified_root_records",
+      "record": "codes/q4-j3-l8-p128-d13-w10-overlap10-a392525d/distance/w12/certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p128-d20-w10-overlap10",
+      "n": 2048,
+      "k": 512,
+      "claimed_exact_distance": 20,
+      "evidence_level": "aggregate_stage_completion_records",
+      "record": "codes/q4-j3-l8-p128-d20-w10-overlap10/distance/stage-completion-records.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l8-p128-d24-w10",
+      "n": 2048,
+      "k": 512,
+      "claimed_exact_distance": 24,
+      "evidence_level": "identified_root_records_and_regenerable_partitions",
+      "record": "codes/q4-j3-l8-p128-d24-w10/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l10-p31-d14-w12",
+      "n": 620,
+      "k": 248,
+      "claimed_exact_distance": 14,
+      "evidence_level": "aggregate_all_root_counts",
+      "record": "codes/q4-j3-l10-p31-d14-w12/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l10-p37-d13-w12",
+      "n": 740,
+      "k": 296,
+      "claimed_exact_distance": 13,
+      "evidence_level": "aggregate_all_root_counts",
+      "record": "codes/q4-j3-l10-p37-d13-w12/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l10-p37-d15-w12",
+      "n": 740,
+      "k": 296,
+      "claimed_exact_distance": 15,
+      "evidence_level": "aggregate_all_root_counts",
+      "record": "codes/q4-j3-l10-p37-d15-w12/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l10-p41-d13-w11",
+      "n": 820,
+      "k": 328,
+      "claimed_exact_distance": 13,
+      "evidence_level": "aggregate_all_root_counts",
+      "record": "codes/q4-j3-l10-p41-d13-w11/distance/completed_certificate.json",
+      "same_checks_as": null
+    },
+    {
+      "instance": "codes/q4-j3-l10-p53-d16-w12",
+      "n": 1060,
+      "k": 424,
+      "claimed_exact_distance": 16,
+      "evidence_level": "aggregate_counts_and_scheduled_followups",
+      "record": "codes/q4-j3-l10-p53-d16-w12/distance/completed_certificate.json",
+      "same_checks_as": null
+    }
+  ]
+}
